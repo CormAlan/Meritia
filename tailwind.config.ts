@@ -16,6 +16,7 @@ export default {
       fontFamily: {
         serif: ['"DM Serif Display"', 'Georgia', 'serif'],
         sans: ['Inter', 'system-ui', 'sans-serif'],
+        logo: ["Young Serif"]
       },
       colors: {
         border: "hsl(var(--border))",
