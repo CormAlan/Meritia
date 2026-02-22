@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "home": "Heim",
+    "forParents": "Fyrir foreldra",
+    "subjects": "Námsgreinar",
+    "becomeTutor": "Verða leiðbeinandi",
+    "about": "Um Meritia",
+    "bookConsultation": "Bóka ráðgjöf"
+  },
+  "hero": {
+    "title1": "Úrvals námsaðstoð,",
+    "title2": "endurhannaður.",
+    "subtitle": "Fremstu nemendur frá bestu háskólum Svíþjóðar. Betri leiðbeinendur, sanngjörn laun, lægra verð.",
+    "cta": "Bókaðu ókeypis ráðgjöf",
+    "learnMore": "Lesa meira",
+    "imageAlt": "Skyline Stokkhólms"
+  },
+  "universities": {
+    "label": "Leiðbeinendur okkar koma frá",
+    "separator": " • "
+  },
+  "howItWorks": {
+    "label": "Svona virkar það",
+    "title": "Þrjú einföld skref",
+    "step1Title": "Segðu okkur hvað þú þarft",
+    "step1Desc": "Námsgrein, stig og markmið — við hlustum og skiljum.",
+    "step2Title": "Við finnum þér leiðbeinanda",
+    "step2Desc": "Handvalinn fremsti nemandi með rétta reynslu.",
+    "step3Title": "Námið hefst",
+    "step3Desc": "Sveigjanlegar kennslustundir, mælanlegur árangur.",
+    "rangeLabel": "01–03"
+  },
+  "whyMeritia": {
+    "label": "Af hverju Meritia",
+    "title": "Betra fyrirkomulag",
+
+    "body1": "Góð kennsla snýst ekki aðeins um þekkingu heldur um að vera skilinn. Við pöruðum hvern nemanda við kennara sem hentar hraða hans, markmiðum og hugsunarhætti.",
+    "body2": "Í stað almennra lausna leggjum við áherslu á samfellu og skýra stefnu. Hver tími byggir á þeim fyrri svo framförin verði sýnileg með tímanum.",
+    "body3": "Útkoman er rólegra nám, meira sjálfstraust og áætlun sem heldur raunverulega út.",
+
+    "adv1Title": "Betri kennarar",
+    "adv1Desc": "Aðeins framúrskarandi nemendur frá leiðandi háskólum. Vandlega valdir og þjálfaðir.",
+    "adv2Title": "Lægra verð fyrir foreldra",
+    "adv2Desc": "Lág álagning. Þú borgar fyrir gæði kennslunnar, ekki milliliði.",
+    "adv3Title": "Hærri laun fyrir kennara",
+    "adv3Desc": "Við greiðum allt að 40% meira en hefðbundnar stofnanir til að laða að þá bestu."
+  },
+  "testimonials": {
+    "label": "Umsagnir",
+    "title": "Hvað aðrir segja",
+    "t1Text": "Dóttir mín fór úr C í A í stærðfræði á aðeins einni önn. Leiðbeinendurnir frá KTH eru frábærir.",
+    "t1Author": "Anna L.",
+    "t1Role": "Foreldri, Östermalm",
+    "t2Text": "Loksins þjónusta sem kemur fram við leiðbeinendur af virðingu. Sveigjanlegt, vel borgað og fagmannlegt.",
+    "t2Author": "Erik S.",
+    "t2Role": "Leiðbeinandi, KTH",
+    "t3Text": "Gæðin eru í allt öðrum flokki. Sonur okkar elskar kennslustundirnar sínar.",
+    "t3Author": "Maria K.",
+    "t3Role": "Foreldri, Djursholm"
+  },
+  "cta": {
+    "title": "Tilbúinn að hækka kröfurnar?",
+    "subtitle": "Bókaðu ókeypis ráðgjöf og sjáðu hvernig Meritia getur hjálpað barninu þínu að ná námsmarkmiðum sínum.",
+    "bookCta": "Bóka ókeypis ráðgjöf",
+    "becomeTutor": "Verða leiðbeinandi"
+  },
+  "forParents": {
+    "label": "Fyrir foreldra",
+    "title1": "Gefðu barninu þínu",
+    "title2": "bestu hjálpina.",
+    "subtitle": "Meritia tengir barnið þitt við fremstu nemendur frá KTH, Karolinska Institutet og Handelshögskolan. Betri gæði, lægra verð — án málamiðlana.",
+    "requestTutor": "Biðja um leiðbeinanda",
+    "benefitsLabel": "Kostir",
+    "benefitsTitle": "Af hverju foreldrar velja okkur",
+    "b1Title": "Gæðaábyrgð",
+    "b1Desc": "Óánægður? Við finnum nýjan leiðbeinanda ókeypis eða endurgreiðum.",
+    "b2Title": "Persónuleg pörun",
+    "b2Desc": "Við finnum réttan leiðbeinanda út frá námsgrein, stigi, persónuleika og námsstíl.",
+    "b3Title": "Betra verð",
+    "b3Desc": "Líkan okkar þýðir að meira fé fer til leiðbeinandans — og þú borgar minna.",
+    "b4Title": "Allar námsgreinar",
+    "b4Desc": "Stærðfræði, eðlisfræði, efnafræði, enska, sænska, forritun og fleira.",
+    "pricingLabel": "Verðlagsstefna okkar",
+    "pricingTitle": "Meira til leiðbeinandans, minna til milliliða",
+    "pricingDesc": "Hefðbundin fyrirtæki taka 40–60% af því sem þú borgar. Hjá Meritia fer meirihlutinn beint til leiðbeinandans.",
+    "pricingMeritia": "fer til leiðbeinandans hjá Meritia",
+    "pricingTraditional": "hjá hefðbundnum fyrirtækjum",
+    "subjectsLabel": "Námsgreinar",
+    "subjectsTitle": "Við þökjum allar námsgreinar",
+    "ctaTitle": "Tilbúinn að byrja?",
+    "ctaSubtitle": "Segðu okkur hvað þið þurfið, svo finnum við fullkomna leiðbeinandann."
+  },
+  "becomeTutor": {
+    "label": "Verða leiðbeinandi",
+    "title1": "Kenndu. Þénaðu meira.",
+    "title2": "Skipta máli.",
+    "subtitle": "Nemur þú við KTH, Karolinska Institutet eða Handelshögskolan? Sæktu um í dag og vertu hluti af úrvals leiðbeinendateymi Stokkhólms.",
+    "whyLabel": "Af hverju Meritia",
+    "whyTitle": "Kostir þess að vera Meritia-leiðbeinandi",
+    "p1Title": "Leiðandi laun í greininni",
+    "p1Desc": "Við borgum allt að 40% meira en aðrir vettvangar.",
+    "p2Title": "Sveigjanlegir tímar",
+    "p2Desc": "Þú ákveður dagskrána — við aðlögum okkur.",
+    "p3Title": "Einkarétt netkerfi",
+    "p3Desc": "Vertu hluti af netkerfi fremstu nemenda frá KTH, KI og Handels.",
+    "p4Title": "Auðveld inngöngu",
+    "p4Desc": "Fljótleg umsókn, engin óþörf skref.",
+    "applyLabel": "Sæktu um núna",
+    "applyTitle": "Sendu umsókn þína",
+    "nameLabel": "Nafn",
+    "namePlaceholder": "Nafnið þitt",
+    "emailLabel": "Netfang",
+    "emailPlaceholder": "þitt@netfang.is",
+    "universityLabel": "Háskóli",
+    "universityPlaceholder": "Veldu háskóla",
+    "subjectLabel": "Námsgrein",
+    "subjectPlaceholder": "T.d. Stærðfræði, Eðlisfræði",
+    "messageLabel": "Skilaboð",
+    "messagePlaceholder": "Segðu okkur stuttlega frá þér...",
+    "submitApplication": "Senda umsókn",
+    "thankYou": "Takk fyrir umsóknina! Við munum hafa samband fljótlega.",
+    "whyBody1": "Við byggðum Meritia til að gera einkakennslu faglegri — fyrir nemendur, foreldra og fyrir þig sem kennara. Skýrar væntingar, góð uppbygging og virðing fyrir tíma þínum.",
+    "whyBody2": "Þú færð sveigjanleika, en ert ekki skilinn eftir einn: við styðjum við pörun, markmið og samfellu svo hver nemandi hafi raunhæfa áætlun áfram.",
+    "whyBody3": "Þegar gæðin eru mikil verður starfið meira gefandi. Betri nemendur, betri tímar, betri árangur — og greiðsla sem endurspeglar það."
+  },
+  "contact": {
+    "label": "Hafa samband",
+    "title1": "Við skulum",
+    "title2": "tala saman.",
+    "subtitle": "Bókaðu ókeypis ráðgjöf eða spurðu spurningu. Við svörum innan 24 klukkustunda.",
+    "sendMessage": "Senda skilaboð",
+    "nameLabel": "Nafn",
+    "namePlaceholder": "Nafnið þitt",
+    "emailLabel": "Netfang",
+    "emailPlaceholder": "þitt@netfang.is",
+    "phoneLabel": "Sími (valfrjálst)",
+    "phonePlaceholder": "070-XXX XX XX",
+    "messageLabel": "Skilaboð",
+    "messagePlaceholder": "Segðu okkur hvernig við getum hjálpað...",
+    "submit": "Senda skilaboð",
+    "contactInfo": "Samskiptaupplýsingar",
+    "office": "Skrifstofa",
+    "location": "Stokkhólmur, Svíþjóð",
+    "email": "Netfang",
+    "bookConsultation": "Bóka ráðgjöf",
+    "consultationDesc": "Ókeypis 15 mín ráðgjöf þar sem við ræðum þarfir barnsins þíns og finnum réttan leiðbeinanda.",
+    "responseTime": "Svar innan 24 klukkustunda ✓",
+    "thankYou": "Takk! Við munum hafa samband innan 24 klukkustunda."
+  },
+  "about": {
+    "label": "Um Meritia",
+    "title1": "Við trúum á",
+    "title2": "betra líkan.",
+    "subtitle": "Meritia var stofnað í Stokkhólmi með einfalda hugmynd: ef leiðbeinendur fá betri laun verður kennslan betri. Og ef milliliðir eru lágmarkaðir borga foreldrar minna.",
+    "storyLabel": "Sagan okkar",
+    "storyTitle": "Frá gremju til breytinga",
+    "storyP1": "Sem nemendur við KTH og Handels sáum við hvernig núverandi leiðbeinendafyrirtæki störfuðu: þau tóku gífurlegar framlegðir, borguðu leiðbeinendum illa og skiluðu miðlungs gæðum.",
+    "storyP2": "Meritia fæddist úr þeirri sannfæringu að betri leið sé til. Með því að ráða eingöngu frá KTH, Karolinska Institutet og Handelshögskolan tryggjum við námsárangur. Með því að lágmarka framlegð okkar gefum við leiðbeinendum leiðandi laun — og foreldrum betra verð.",
+    "storyP3": "Í dag er Meritia einkarekna kennsluþjónustan í Stokkhólmi, byggð á meginreglunni að gæði eigi aldrei að vera í hættu.",
+    "valuesLabel": "Gildi okkar",
+    "valuesTitle": "Fyrir hvað við stöndum",
+    "v1Title": "Framúrskarandi námsárangur",
+    "v1Desc": "Aðeins bestu nemendurnir frá virtustu háskólum Svíþjóðar.",
+    "v2Title": "Sanngjörn laun",
+    "v2Desc": "Við vorum stofnuð til að gefa leiðbeinendum það sem þeir eiga skilið — allt að 40% meira.",
+    "v3Title": "Einkaréttindi",
+    "v3Desc": "Færri leiðbeinendur, meiri gæði. Úrvalsferlið okkar er vísvitandi strangt.",
+    "ctaTitle": "Viltu vita meira?",
+    "ctaSubtitle": "Við segjum þér gjarnan meira um hvernig Meritia virkar.",
+    "ctaCta": "Hafa samband",
+    "valuesQuote": "Við erum ekki að byggja markaðstorg. Við erum að byggja staðal.",
+    "valuesQuoteBy": "MEGINREGLA MERITIA"
+  },
+  "subjects": {
+    "heroTitle1": "Námsgreinar sem við",
+    "heroTitle2": "kennum",
+    "heroSubtitle": "Allir leiðbeinendur okkar eru fremstu nemendur frá KTH, Karolinska Institutet og Handelshögskolan.",
+    "levels": "Stig",
+    "topics": "Námssvið",
+    "math": {
+      "title": "Stærðfræði",
+      "tagline": "Frá grunnalgebru til háþróaðrar greiningar",
+      "description": "Stærðfræði er mest eftirsótta námsgreinin okkar.",
+      "levels": [
+        "Unglingastig (bekkir 7–9)",
+        "Framhaldsskóli (Stæ 1–5)",
+        "Háskólastærðfræði"
+      ],
+      "topics": [
+        "Algebra og jöfnur",
+        "Föll og línurit",
+        "Afleiður og heildi",
+        "Tölfræði og líkindi",
+        "Línuleg algebra"
+      ]
+    },
+    "physics": {
+      "title": "Eðlisfræði, efnafræði og líffræði",
+      "tagline": "Náttúruvísindi með raunverulegum skilningi",
+      "description": "Leiðbeinendur okkar gefa nemendum traustan grunn í náttúruvísindum.",
+      "levels": [
+        "Unglingastig",
+        "Framhaldsskóli (Eð 1–2, Ef 1–2, Lf 1–2)",
+        "IB og alþjóðleg forrit"
+      ],
+      "topics": [
+        "Aflfræði og kraftar",
+        "Rafmagn og segulmagn",
+        "Efnahvörf",
+        "Lífræn efnafræði",
+        "Varmafræði",
+        "Frumufræði og erfðafræði"
+      ]
+    },
+    "languages": {
+      "title": "Sænska og enska",
+      "tagline": "Sterkara tungumál, sterkari námsárangur",
+      "description": "Tungumál er grunnurinn að öllum námsárangri.",
+      "levels": [
+        "Unglingastig",
+        "Framhaldsskóli (Ens 5–7, Sæ 1–3)",
+        "Fræðileg ritun"
+      ],
+      "topics": [
+        "Málfræði og setningagerð",
+        "Ritgerðir og rökræður",
+        "Textaúttekt og bókmenntir",
+        "Munnleg kynning",
+        "Orðaforði og lesskilningur"
+      ]
+    },
+    "programming": {
+      "title": "Forritun",
+      "tagline": "Hæfni framtíðarinnar, kennd af þeim bestu",
+      "description": "Leiðbeinendur okkar frá KTH eru meðal hæfustu ungra forritara Svíþjóðar.",
+      "levels": [
+        "Framhaldsskóli (Forritun 1–2)",
+        "Vefþróun",
+        "Háskólaundirbúningur"
+      ],
+      "topics": [
+        "Python",
+        "JavaScript og vefþróun",
+        "Java",
+        "Reiknirit og gagnagrindur",
+        "Verkefnamiðað nám"
+      ]
+    },
+    "socialStudies": {
+      "title": "Félagsvísindi",
+      "tagline": "Saga, samfélagsfræði, landafræði og trúarbrögð",
+      "description": "Leiðbeinendur okkar hjálpa nemendum að skilja flókin samfélagsmál.",
+      "levels": [
+        "Unglingastig (bekkir 7–9)",
+        "Framhaldsskóli (Sf 1–2, So 1–2)",
+        "IB og alþjóðleg forrit"
+      ],
+      "topics": [
+        "Samfélagsfræði og stjórnmál",
+        "Nútíma og forn saga",
+        "Landafræði og sjálfbær þróun",
+        "Trúarbragðafræði og siðfræði",
+        "Heimildagagnrýni og röksemdafærsla"
+      ]
+    },
+    "modernLanguages": {
+      "title": "Nútímamál",
+      "tagline": "Spænska, franska, ítalska og mandarínska",
+      "description": "Tungumálaleiðbeinendur okkar eru reiprennandi talendur með fræðilegan bakgrunn.",
+      "levels": [
+        "Unglingastig (skref 1–3)",
+        "Framhaldsskóli (skref 3–5)",
+        "Samtal og dýpkun"
+      ],
+      "topics": [
+        "Spænska",
+        "Franska",
+        "Ítalska",
+        "Mandarínska (kínverska)",
+        "Málfræði, framburður og samtal"
+      ]
+    }
+  },
+  "footer": {
+    "description": "Einkarekna kennsluþjónustan í Stokkhólmi. Stofnuð til að gefa leiðbeinendum sanngjörn laun og foreldrum betri gæði.",
+    "navigation": "Leiðsögn",
+    "subjectsTitle": "Námsgreinar",
+    "contactTitle": "Hafa samband",
+    "location": "Stokkhólmur, Svíþjóð",
+    "bookConsultation": "Bóka ráðgjöf →",
+    "copyright": "© 2025 Meritia. Allur réttur áskilinn.",
+    "locationTag": "Stokkhólmur, Svíþjóð 🇸🇪"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Síðan fannst ekki",
+    "returnHome": "Til baka á forsíðu"
+  },
+  "subjectNames": {
+    "matematik": "Stærðfræði",
+    "fysik": "Eðlisfræði",
+    "kemi": "Efnafræði",
+    "biologi": "Líffræði",
+    "engelska": "Enska",
+    "svenska": "Sænska",
+    "programmering": "Forritun",
+    "ekonomi": "Hagfræði",
+    "statistik": "Tölfræði",
+    "franska": "Franska",
+    "spanska": "Spænska",
+    "historia": "Saga",
+    "italienska": "Ítalska",
+    "mandarin": "Mandarínska"
+  }
+}

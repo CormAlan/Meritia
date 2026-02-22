@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "home": "Hoyga",
+    "forParents": "Waalidiinta",
+    "subjects": "Maaddooyinka",
+    "becomeTutor": "Noqo macalin",
+    "about": "Ku saabsan Meritia",
+    "bookConsultation": "La tashi talo"
+  },
+  "hero": {
+    "title1": "Caawinaad waxbarasho oo heer sare,",
+    "title2": "dib loo qaabeeyay.",
+    "subtitle": "Ardayda ugu fiican ee jaamacadaha ugu wanaagsan ee Iswiidhan. Macalimiinta wanaagsan, mushaar cadaalad ah, qiimo jaban.",
+    "cta": "La tashi talo bilaash ah",
+    "learnMore": "Akhri wax badan",
+    "imageAlt": "Muuqaalka cirifka Stockholm"
+  },
+  "universities": {
+    "label": "Macalimiintayadu waxay ka yimaadaan",
+    "separator": " • "
+  },
+  "howItWorks": {
+    "label": "Sida ay u shaqeyso",
+    "title": "Saddex tallaabo oo fudud",
+    "step1Title": "Noo sheeg waxa aad u baahan tahay",
+    "step1Desc": "Maaddo, heer iyo hadaf — waan dhageysannaynaa waan fahannaa.",
+    "step2Title": "Waxaan kuu helnaa macalin",
+    "step2Desc": "Arday sare oo la doortay oo leh khibrad saxda ah.",
+    "step3Title": "Waxbarashadu way bilaabataa",
+    "step3Desc": "Casharro dabacsan, natiijoooyin la cabbiri karo.",
+    "rangeLabel": "01–03"
+  },
+  "whyMeritia": {
+    "label": "Maxay Meritia",
+    "title": "Hab ka fiican",
+
+    "body1": "Waxbarasho wanaagsan kaliya ma aha aqoon—waa in ardayga si dhab ah loo fahmo. Waxaan arday kasta ku xidhnaa macalin ku habboon xawligiisa, yoolkiisa iyo sida uu u fikirayo.",
+    "body2": "Halkii xalal guud laga bixin lahaa, waxaan diiradda saarnaa joogteyn iyo jihayn cad. Kulan kasta wuxuu ku dhismaa kii hore si horumar la arki karo waqti ka dib.",
+    "body3": "Natiijadu waa waxbarasho degan, kalsooni badan, iyo qorshe si dhab ah u sii shaqeeya.",
+
+    "adv1Title": "Macallimiin ka fiican",
+    "adv1Desc": "Kaliya ardayda ugu sarreeya ee jaamacadaha waaweyn. Si taxaddar leh loo doortay loona tababaray.",
+    "adv2Title": "Qiimo ka jaban waalidiinta",
+    "adv2Desc": "Faa’iido yar. Waxaad bixinaysaa tayada waxbarashada, ma aha dhexdhexaadayaal.",
+    "adv3Title": "Mushahar ka badan tutorrada",
+    "adv3Desc": "Waxaan bixin karnaa ilaa 40% ka badan hay’adaha caadiga ah si aan u helno kuwa ugu fiican."
+  },
+  "testimonials": {
+    "label": "Dib u eegis",
+    "title": "Waxa dadka kale yiraahdaan",
+    "t1Text": "Gabadhaydii waxay ka soo boodday C ilaa A xisaabta hal semester gudihiis. Macalimiinta KTH way cajiib yihiin.",
+    "t1Author": "Anna L.",
+    "t1Role": "Waalid, Östermalm",
+    "t2Text": "Ugu dambeyn adeeg u dhaqma macalimiinta ixtiraam. Dabacsan, si fiican loo bixiyo, oo xirfad leh.",
+    "t2Author": "Erik S.",
+    "t2Role": "Macalin, KTH",
+    "t3Text": "Tayadu heer kale bay ku jirtaa. Wiilkayagu wuu jecel yahay casharradiisa.",
+    "t3Author": "Maria K.",
+    "t3Role": "Waalid, Djursholm"
+  },
+  "cta": {
+    "title": "Diyaar ma u tahay inaad heerka kor u qaaddo?",
+    "subtitle": "La tashi talo bilaash ah oo arag sida Meritia u caawin karto ilmahaaga inay gaaraan hadafkooda waxbarasho.",
+    "bookCta": "La tashi talo bilaash ah",
+    "becomeTutor": "Noqo macalin"
+  },
+  "forParents": {
+    "label": "Waalidiinta",
+    "title1": "Sii ilmahaaga",
+    "title2": "caawinaadda ugu fiican.",
+    "subtitle": "Meritia waxay ku xidhaa ilmahaaga ardayda ugu fiican ee KTH, Karolinska Institutet iyo Handelshögskolan. Tayo wanaagsan, qiimo jaban — iyada oo aan wax laga dhimin.",
+    "requestTutor": "Codso macalin",
+    "benefitsLabel": "Faa'iidooyinka",
+    "benefitsTitle": "Sababta waalidiintu noo doortaan",
+    "b1Title": "Damaanad tayo",
+    "b1Desc": "Kuma qanacsana? Waxaan kuu helnaa mid kale oo bilaash ah ama lacagta ku celinnaa.",
+    "b2Title": "Is-barbar dhig shakhsi",
+    "b2Desc": "Waxaan helnaa macalinka saxda ah ee ku salaysan maaddo, heer, shakhsiyad iyo qaabka barashada.",
+    "b3Title": "Qiimo wanaagsan",
+    "b3Desc": "Habkayagu wuxuu ka dhigan yahay in lacag badan ay u aaddo macalinka — adna aad ka badan bixisid.",
+    "b4Title": "Dhammaan maaddooyinka",
+    "b4Desc": "Xisaabta, fiisigiska, kimistariga, Ingiriisiga, Iswidhishka, barnaamijyada iyo wax badan.",
+    "pricingLabel": "Falsafadayada qiimaha",
+    "pricingTitle": "Wax badan macalinka, wax yar dhexdhexaadiyeyaasha",
+    "pricingDesc": "Shirkadaha dhaqameed waxay qaataan 40–60% waxa aad bixiso. Meritia, intooda badan toos bay u aadaan macalinkaaga.",
+    "pricingMeritia": "waxay u aadaan macalinka Meritia",
+    "pricingTraditional": "shirkadaha dhaqameed",
+    "subjectsLabel": "Maaddooyinka",
+    "subjectsTitle": "Waxaan daboollaa dhammaan maaddooyinka",
+    "ctaTitle": "Diyaar ma u tahay inaad bilowdo?",
+    "ctaSubtitle": "Noo sheeg waxa aad u baahan tihiin, waxaanan helnaa macalinka saxda ah."
+  },
+  "becomeTutor": {
+    "label": "Noqo macalin",
+    "title1": "Bar. Kasbid wax badan.",
+    "title2": "Samee farqi.",
+    "subtitle": "Ma ka wax baranaysaa KTH, Karolinska Institutet ama Handelshögskolan? Maanta codso oo ku biir kooxda macalimiinta ugu sarreeya ee Stockholm.",
+    "whyLabel": "Maxay Meritia",
+    "whyTitle": "Faa'iidooyinka noqoshada macalin Meritia",
+    "p1Title": "Mushaar horumar ku ah warshadda",
+    "p1Desc": "Waxaan bixinnaa ilaa 40% ka badan boostiyeyaasha kale.",
+    "p2Title": "Waqtiyo dabacsan",
+    "p2Desc": "Adiga ayaa jadwalka go'aamisa — annaga waan la qabsannaa.",
+    "p3Title": "Shabakad gaar ah",
+    "p3Desc": "Ku biir shabakad ardayda ugu fiican ee KTH, KI iyo Handels.",
+    "p4Title": "Bilaawga fudud",
+    "p4Desc": "Codsi degdeg ah, tallaabooyin aan loo baahnayn ma jiraan.",
+    "applyLabel": "Hadda codso",
+    "applyTitle": "Soo gudbi codsigaaga",
+    "nameLabel": "Magaca",
+    "namePlaceholder": "Magacaaga",
+    "emailLabel": "Iimaylka",
+    "emailPlaceholder": "adiga@email.com",
+    "universityLabel": "Jaamacadda",
+    "universityPlaceholder": "Dooro jaamacad",
+    "subjectLabel": "Maaddo",
+    "subjectPlaceholder": "Tus. Xisaabta, Fiisigiska",
+    "messageLabel": "Fariin",
+    "messagePlaceholder": "Si kooban noogu sheekee naftaada...",
+    "submitApplication": "Soo gudbi codsiga",
+    "thankYou": "Mahadsanid codsigaaga! Waan kuula soo noqon doonaa dhawaan.",
+    "whyBody1": "Waxaan Meritia u dhisnay si waxbarashada gaarka ahi u noqoto mid dhab ahaan xirfad leh — arday, waalid iyo adiga tutor ahaanba. Filasho cad, hab dhisan, iyo qadarin waqtigaaga.",
+    "whyBody2": "Waxaad helaysaa dabacsanaan, balse keligaa lagama tagayo: waxaan taageernaa is-waafajinta, yoolalka iyo joogteynta si arday kastaa u helo qorshe macquul ah oo uu ku socdo.",
+    "whyBody3": "Marka tayadu sarreyso, shaqadu way ka macaan tahay. Arday fiican, kulammo fiican, natiijo fiican — iyo mushahar taas la jaan qaadaya."
+  },
+  "contact": {
+    "label": "La xiriir",
+    "title1": "Aynu",
+    "title2": "wada hadalno.",
+    "subtitle": "La tashi talo bilaash ah ama su'aal weydii. Waxaan ka jawaab celinnaa 24 saac gudahood.",
+    "sendMessage": "Dir fariin",
+    "nameLabel": "Magaca",
+    "namePlaceholder": "Magacaaga",
+    "emailLabel": "Iimaylka",
+    "emailPlaceholder": "adiga@email.com",
+    "phoneLabel": "Telefon (ikhtiyaar)",
+    "phonePlaceholder": "070-XXX XX XX",
+    "messageLabel": "Fariin",
+    "messagePlaceholder": "Noo sheeg sida aan kuu caawin karno...",
+    "submit": "Dir fariinta",
+    "contactInfo": "Macluumaadka la xiriirka",
+    "office": "Xafiiska",
+    "location": "Stockholm, Iswiidhan",
+    "email": "Iimaylka",
+    "bookConsultation": "La tashi talo",
+    "consultationDesc": "Talo bilaash ah oo 15 daqiiqo ah oo aan ka wada hadalno baahiyaha ilmahaaga oo aan helno macalinka saxda ah.",
+    "responseTime": "Jawaab 24 saac gudahood ✓",
+    "thankYou": "Mahadsanid! Waan kuula soo noqon doonaa 24 saac gudahood."
+  },
+  "about": {
+    "label": "Ku saabsan Meritia",
+    "title1": "Waxaan rumaysannahay",
+    "title2": "hab ka wanaagsan.",
+    "subtitle": "Meritia waxaa lagu aasaasay Stockholm fikrad fudud: haddii macalimiintu mushaar wanaagsan helaan, waxbarashaduna way wanaagsanaataa. Haddii dhexdhexaadiyeyaasha la yareeyana, waalidiintu wax yar ayay bixiyaan.",
+    "storyLabel": "Sheekadayada",
+    "storyTitle": "Ka caraysiinta ilaa isbeddel",
+    "storyP1": "Annaga oo ah arday KTH iyo Handels, waxaan aragnay sida shirkadaha macalinimaadku u shaqeeyaan: waxay qaadanayeen faa'iidooyin wayn, macalimiinta si xun u bixin jireen, tayona dhexdhexaad ahayd.",
+    "storyP2": "Meritia waxay ka dhalatay qirashadii in jid ka wanaagsan jiro. Iyadoo kaliya ka shaqaalaysanayno KTH, Karolinska Institutet iyo Handelshögskolan waxaan hubinnaa tayada waxbarasho. Iyadoo yareynayna faa'iidadayada waxaan macalimiinta siinnaa mushaar horumar.",
+    "storyP3": "Maanta, Meritia waa adeega waxbarashada gaarka ee ugu sarreeya Stockholm.",
+    "valuesLabel": "Qiyamkayaga",
+    "valuesTitle": "Waxa aan u taagno",
+    "v1Title": "Tayada waxbarasho",
+    "v1Desc": "Kaliya ardayda ugu fiican ee jaamacadaha ugu sharafta badan ee Iswiidhan.",
+    "v2Title": "Mushaar cadaalad ah",
+    "v2Desc": "Waxaan u aasaasnay inaan macalimiinta siinno waxa ay mudan yihiin — ilaa 40% oo dheeraad ah.",
+    "v3Title": "Gaarnimo",
+    "v3Desc": "Macalimiinta yar, tayo sare. Habka doorashadu si ula kac ah ayuu u adag yahay.",
+    "ctaTitle": "Ma rabtaa inaad wax badan ogaato?",
+    "ctaSubtitle": "Waan ku faraxnaa inaan kaa sheekeyno sida Meritia u shaqeyso.",
+    "ctaCta": "Nala soo xiriir",
+    "valuesQuote": "Ma dhisayno suuq. Waxaan dhisaynaa heer.",
+    "valuesQuoteBy": "MABDA’A MERITIA"
+  },
+  "subjects": {
+    "heroTitle1": "Maaddooyinka aan",
+    "heroTitle2": "barno",
+    "heroSubtitle": "Dhammaan macalimiintayadu waa ardayda ugu fiican ee KTH, Karolinska Institutet iyo Handelshögskolan.",
+    "levels": "Heerarka",
+    "topics": "Qaybaha maaddada",
+    "math": {
+      "title": "Xisaabta",
+      "tagline": "Algebrada aasaasiga ilaa falanqaynta sare",
+      "description": "Xisaabtu waa maaddadayada ugu badan ee la codsado.",
+      "levels": [
+        "Dhexe (fasallo 7–9)",
+        "Sare (Xi 1–5)",
+        "Xisaabta jaamacadeed"
+      ],
+      "topics": [
+        "Algebra iyo isle'eg",
+        "Hawlaha iyo garaafyada",
+        "Dhigaalaha iyo iskudhafka",
+        "Tirakoobka iyo suurtagalnimada",
+        "Algebrada toosan"
+      ]
+    },
+    "physics": {
+      "title": "Fiisigiska, kimistariga iyo bayoolajiga",
+      "tagline": "Sayniska dabiiciga ah oo leh faham dhabta ah",
+      "description": "Macalimiintayadu waxay ardayda siiyaan aasaas adag sayniska dabiiciga ah.",
+      "levels": [
+        "Dhexe",
+        "Sare (Fi 1–2, Ki 1–2, Ba 1–2)",
+        "IB iyo barnaamijyada caalamiga"
+      ],
+      "topics": [
+        "Makaanikada iyo xoogaga",
+        "Korontada iyo birta jiidada",
+        "Falcelinta kimistariga",
+        "Kimistariga noole",
+        "Kulaylka cilmiga",
+        "Bayoolajiga unugyada iyo hidde-sidaha"
+      ]
+    },
+    "languages": {
+      "title": "Iswidhishka iyo Ingiriisiga",
+      "tagline": "Luqad xoog badan, natiijooyin waxbarasho oo xoog badan",
+      "description": "Luqaddu waa aasaaska guul kasta oo waxbarasho.",
+      "levels": [
+        "Dhexe",
+        "Sare (Ing 5–7, Isw 1–3)",
+        "Qoraalka waxbarasho"
+      ],
+      "topics": [
+        "Naxwaha iyo dhismaha jumlada",
+        "Maqaalka iyo qoraalka doodda",
+        "Falanqaynta qoraalka iyo suugaanta",
+        "Hadal dadweyne",
+        "Ereyga iyo fahamka akhriska"
+      ]
+    },
+    "programming": {
+      "title": "Barnaamijyada",
+      "tagline": "Xirfadda mustaqbalka, waxaa baray kuwa ugu wanaagsan",
+      "description": "Macalimiintayada KTH waxay ka mid yihiin barnaamij sameeyadii ugu xirfadda badnaa ee Iswiidhan.",
+      "levels": [
+        "Sare (Barnaamijyada 1–2)",
+        "Horumarinta shabakadda",
+        "Diyaarinta jaamacadeed"
+      ],
+      "topics": [
+        "Python",
+        "JavaScript iyo horumarinta shabakadda",
+        "Java",
+        "Algorithms iyo qaab dhismeedyada xogta",
+        "Barashada mashruuca ku salaysan"
+      ]
+    },
+    "socialStudies": {
+      "title": "Cilmiga bulshada",
+      "tagline": "Taariikhda, cilmiga bulshada, juquraafiyada iyo diinta",
+      "description": "Macalimiintayadu waxay ardayda ka caawiyaan inay fahmaan arrimaha bulshada ee adag.",
+      "levels": [
+        "Dhexe (fasallo 7–9)",
+        "Sare (Bu 1–2, Ta 1–2)",
+        "IB iyo barnaamijyada caalamiga"
+      ],
+      "topics": [
+        "Cilmiga bulshada iyo siyaasadda",
+        "Taariikhda casriga iyo qadiimiga",
+        "Juquraafiyada iyo horumarinta joogtada ah",
+        "Daraasaadka diinta iyo anshaxa",
+        "Naqdiga isha iyo doodda"
+      ]
+    },
+    "modernLanguages": {
+      "title": "Luqadaha casriga",
+      "tagline": "Isbaanish, Faransiis, Talyaani iyo Mandarin",
+      "description": "Macalimiintayada luqadaha waa kuwa si fiican u hadla oo leh aqoon waxbarasho.",
+      "levels": [
+        "Dhexe (tallaabooyinka 1–3)",
+        "Sare (tallaabooyinka 3–5)",
+        "Wada sheekaysi iyo qoto dheer"
+      ],
+      "topics": [
+        "Isbaanish",
+        "Faransiis",
+        "Talyaani",
+        "Mandarin (Shiinaha)",
+        "Naxwaha, ku dhawaaqida iyo wada sheekaysiga"
+      ]
+    }
+  },
+  "footer": {
+    "description": "Adeega waxbarashada gaarka ee ugu sarreeya Stockholm.",
+    "navigation": "Hagitaan",
+    "subjectsTitle": "Maaddooyinka",
+    "contactTitle": "La xiriir",
+    "location": "Stockholm, Iswiidhan",
+    "bookConsultation": "La tashi talo →",
+    "copyright": "© 2025 Meritia. Dhammaan xuquuqda way xafidan yihiin.",
+    "locationTag": "Stockholm, Iswiidhan 🇸🇪"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Bogga lama helin",
+    "returnHome": "Ku laabo bogga hore"
+  },
+  "subjectNames": {
+    "matematik": "Xisaabta",
+    "fysik": "Fiisigiska",
+    "kemi": "Kimistariga",
+    "biologi": "Bayoolajiga",
+    "engelska": "Ingiriisiga",
+    "svenska": "Iswidhishka",
+    "programmering": "Barnaamijyada",
+    "ekonomi": "Dhaqaalaha",
+    "statistik": "Tirakoobka",
+    "franska": "Faransiiska",
+    "spanska": "Isbaanishka",
+    "historia": "Taariikhda",
+    "italienska": "Talyaaniga",
+    "mandarin": "Mandarin"
+  }
+}

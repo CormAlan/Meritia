@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Meritia Brand Palette */
+    --background: 90 30% 97%;
+    --foreground: 148 50% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 148 50% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 148 50% 10%;
+
+    /* Forest Jade #1C7C54 */
+    --primary: 155 63% 30%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Soft Pistachio #DEF4C6 */
+    --secondary: 93 68% 87%;
+    --secondary-foreground: 148 50% 15%;
+
+    --muted: 90 20% 94%;
+    --muted-foreground: 148 15% 45%;
+
+    /* Mint Bloom #73E2A7 */
+    --accent: 144 64% 67%;
+    --accent-foreground: 148 50% 10%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 93 25% 88%;
+    --input: 93 25% 88%;
+    --ring: 155 63% 30%;
+    --radius: 0.4rem;
+
+    /* Deep Evergreen #1B512D */
+    --deep: 148 50% 21%;
+    --deep-foreground: 93 68% 87%;
+
+    /* Mint Bloom for highlights */
+    --mint: 144 64% 67%;
+
+    /* Pistachio for light sections */
+    --pistachio: 93 68% 87%;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 155 63% 30%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 93 68% 87%;
+    --sidebar-accent-foreground: 148 50% 10%;
+    --sidebar-border: 93 25% 88%;
+    --sidebar-ring: 155 63% 30%;
+  }
+
+  .dark {
+    --background: 148 50% 5%;
+    --foreground: 93 30% 95%;
+    --card: 148 40% 8%;
+    --card-foreground: 93 30% 95%;
+    --popover: 148 40% 8%;
+    --popover-foreground: 93 30% 95%;
+    --primary: 144 64% 67%;
+    --primary-foreground: 148 50% 5%;
+    --secondary: 148 30% 15%;
+    --secondary-foreground: 93 30% 95%;
+    --muted: 148 20% 15%;
+    --muted-foreground: 93 15% 60%;
+    --accent: 155 63% 30%;
+    --accent-foreground: 93 30% 95%;
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 148 20% 18%;
+    --input: 148 20% 18%;
+    --ring: 144 64% 67%;
+    --deep: 148 50% 10%;
+    --deep-foreground: 93 68% 87%;
+    --mint: 144 64% 67%;
+    --pistachio: 93 40% 20%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent;
+  }
+
+  .section-padding {
+    @apply px-6 py-24 md:px-12 lg:px-24;
+  }
+
+  .glass {
+    @apply bg-white/70 backdrop-blur-xl border border-white/20;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "home": "Home",
+    "forParents": "For Parents",
+    "subjects": "Subjects",
+    "becomeTutor": "Become a Tutor",
+    "about": "About Meritia",
+    "bookConsultation": "Book Consultation"
+  },
+  "hero": {
+    "title1": "Elite academic help,",
+    "title2": "redesigned.",
+    "subtitle": "Top students from Sweden's best universities. Better tutors, fair compensation, lower prices.",
+    "cta": "Book free consultation",
+    "learnMore": "Learn more",
+    "imageAlt": "Stockholm skyline"
+  },
+  "universities": {
+    "label": "Our tutors come from",
+    "separator": " • "
+  },
+  "howItWorks": {
+    "label": "How it works",
+    "title": "Three simple steps",
+    "step1Title": "Tell us what you need",
+    "step1Desc": "Subject, level, and goals — we listen and understand.",
+    "step2Title": "We match your tutor",
+    "step2Desc": "Handpicked top student with the right experience.",
+    "step3Title": "Learning begins",
+    "step3Desc": "Flexible lessons, measurable results.",
+    "rangeLabel": "01–03"
+  },
+  "whyMeritia": {
+    "label": "Why Meritia",
+    "title": "A better model",
+
+    "body1": "Great tutoring is not just about knowledge — it is about being understood. We match each student with a tutor who fits their pace, goals and way of thinking.",
+    "body2": "Instead of generic solutions, we focus on continuity and direction. Each session builds on the previous one to create clear and steady progress.",
+    "body3": "The result is calmer studying, stronger confidence and a plan that actually lasts.",
+
+    "adv1Title": "Better tutors",
+    "adv1Desc": "Only top students from leading universities. Carefully selected and trained.",
+    "adv2Title": "Lower cost for parents",
+    "adv2Desc": "Minimal margins. You pay for teaching quality, not middlemen.",
+    "adv3Title": "Higher pay for tutors",
+    "adv3Desc": "We pay tutors up to 40% more than traditional agencies. This attracts the best."
+  },
+  "testimonials": {
+    "label": "Reviews",
+    "title": "What others say",
+    "t1Text": "My daughter went from a C to an A in mathematics in just one semester. The tutors from KTH are fantastic.",
+    "t1Author": "Anna L.",
+    "t1Role": "Parent, Östermalm",
+    "t2Text": "Finally a service that treats tutors with respect. Flexible, well-paid, and professional.",
+    "t2Author": "Erik S.",
+    "t2Role": "Tutor, KTH",
+    "t3Text": "The quality is in a completely different league. Our son loves his lessons.",
+    "t3Author": "Maria K.",
+    "t3Role": "Parent, Djursholm"
+  },
+  "cta": {
+    "title": "Ready to raise the bar?",
+    "subtitle": "Book a free consultation and see how Meritia can help your child reach their academic goals.",
+    "bookCta": "Book free consultation",
+    "becomeTutor": "Become a tutor"
+  },
+  "forParents": {
+    "label": "For Parents",
+    "title1": "Give your child the",
+    "title2": "best help.",
+    "subtitle": "Meritia connects your child with top students from KTH, Karolinska Institutet, and the Stockholm School of Economics. Better quality, lower price — without compromises.",
+    "requestTutor": "Request a tutor",
+    "benefitsLabel": "Benefits",
+    "benefitsTitle": "Why parents choose us",
+    "b1Title": "Quality guarantee",
+    "b1Desc": "Not satisfied? We'll rematch you for free or give you your money back.",
+    "b2Title": "Personal matching",
+    "b2Desc": "We find the right tutor based on subject, level, personality, and learning style.",
+    "b3Title": "Better price",
+    "b3Desc": "Our model means more money goes to the tutor — and you pay less.",
+    "b4Title": "All subjects",
+    "b4Desc": "Mathematics, physics, chemistry, English, Swedish, programming and more.",
+    "pricingLabel": "Our pricing philosophy",
+    "pricingTitle": "More to the tutor, less to middlemen",
+    "pricingDesc": "Traditional companies take 40–60% of what you pay. At Meritia, the majority goes directly to your tutor — meaning more motivation, better quality, and a lower price for you.",
+    "pricingMeritia": "goes to the tutor at Meritia",
+    "pricingTraditional": "at traditional companies",
+    "subjectsLabel": "Subjects",
+    "subjectsTitle": "We cover all subjects",
+    "ctaTitle": "Ready to get started?",
+    "ctaSubtitle": "Tell us what you need, and we'll find the perfect tutor."
+  },
+  "becomeTutor": {
+    "label": "Become a Tutor",
+    "title1": "Teach. Earn more.",
+    "title2": "Make a difference.",
+    "subtitle": "Do you study at KTH, Karolinska Institutet, or the Stockholm School of Economics? Apply today and join Stockholm's most exclusive tutor team.",
+    "whyLabel": "Why Meritia",
+    "whyTitle": "The perks of being a Meritia tutor",
+    "p1Title": "Industry-leading pay",
+    "p1Desc": "We pay up to 40% more than other platforms.",
+    "p2Title": "Flexible hours",
+    "p2Desc": "You set the schedule — we adapt to you.",
+    "p3Title": "Exclusive network",
+    "p3Desc": "Join a network of top students from KTH, KI, and SSE.",
+    "p4Title": "Easy onboarding",
+    "p4Desc": "Quick application, no unnecessary steps.",
+    "applyLabel": "Apply now",
+    "applyTitle": "Submit your application",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your@email.com",
+    "universityLabel": "University",
+    "universityPlaceholder": "Select university",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "E.g. Mathematics, Physics",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us briefly about yourself...",
+    "submitApplication": "Submit application",
+    "thankYou": "Thank you for your application! We'll get back to you soon.",
+    "whyBody1": "We built Meritia to make tutoring feel more serious — for students, parents, and for you as a tutor. Clear expectations, solid structure, and respect for your time.",
+    "whyBody2": "You keep the flexibility, but you are not left alone: we support matching, goals, and continuity so each student has a realistic plan forward.",
+    "whyBody3": "When the quality is high, the work becomes more rewarding. Better students, better sessions, better outcomes — and compensation that reflects it."
+  },
+  "contact": {
+    "label": "Contact",
+    "title1": "Let's",
+    "title2": "talk.",
+    "subtitle": "Book a free consultation or ask a question. We respond within 24 hours.",
+    "sendMessage": "Send a message",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phoneLabel": "Phone (optional)",
+    "phonePlaceholder": "070-XXX XX XX",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us how we can help you...",
+    "submit": "Send message",
+    "contactInfo": "Contact info",
+    "office": "Office",
+    "location": "Stockholm, Sweden",
+    "email": "Email",
+    "bookConsultation": "Book consultation",
+    "consultationDesc": "Free 15-minute consultation where we discuss your child's needs and find the right tutor.",
+    "responseTime": "Response within 24 hours ✓",
+    "thankYou": "Thank you! We'll get back to you within 24 hours."
+  },
+  "about": {
+    "label": "About Meritia",
+    "title1": "We believe in",
+    "title2": "a better model.",
+    "subtitle": "Meritia was founded in Stockholm with a simple idea: if tutors are paid better, teaching gets better. And if middlemen are minimized, parents pay less.",
+    "storyLabel": "Our story",
+    "storyTitle": "From frustration to change",
+    "storyP1": "As students at KTH and SSE, we saw how existing tutoring companies operated: they took enormous margins, paid tutors poorly, and delivered mediocre quality.",
+    "storyP2": "Meritia was born from the conviction that there is a better way. By hiring exclusively from KTH, Karolinska Institutet, and the Stockholm School of Economics, we ensure academic excellence. By minimizing our margin, we give tutors industry-leading compensation — and parents a better price.",
+    "storyP3": "Today, Meritia is Stockholm's most exclusive private tutoring service, built on the principle that quality should never be compromised.",
+    "valuesLabel": "Our values",
+    "valuesTitle": "What we stand for",
+    "v1Title": "Academic excellence",
+    "v1Desc": "Only the best students from Sweden's most prestigious universities.",
+    "v2Title": "Fair compensation",
+    "v2Desc": "We were founded to give tutors what they deserve — up to 40% more.",
+    "v3Title": "Exclusivity",
+    "v3Desc": "Fewer tutors, higher quality. Our selection process is intentionally strict.",
+    "ctaTitle": "Want to learn more?",
+    "ctaSubtitle": "We'd be happy to tell you more about how Meritia works.",
+    "ctaCta": "Contact us",
+    "valuesQuote": "We are not building a marketplace. We are building a standard.",
+    "valuesQuoteBy": "THE MERITIA PRINCIPLE"
+  },
+  "subjects": {
+    "heroTitle1": "Subjects we",
+    "heroTitle2": "teach",
+    "heroSubtitle": "All our tutors are top students from KTH, Karolinska Institutet, and the Stockholm School of Economics. Here are the subjects we offer.",
+    "levels": "Levels",
+    "topics": "Subject areas",
+    "math": {
+      "title": "Mathematics",
+      "tagline": "From basic algebra to advanced analysis",
+      "description": "Mathematics is our most requested subject. Our tutors from KTH and SSE help students at all levels — from middle school to the most demanding high school courses. We focus on deep understanding rather than mechanical calculation.",
+      "levels": [
+        "Middle school (grades 7–9)",
+        "High school (Math 1–5, Specialization)",
+        "University mathematics (Single & multivariable calculus, Linear algebra and more)"
+      ],
+      "topics": [
+        "Algebra & equations",
+        "Functions & graphs",
+        "Derivatives & integrals",
+        "Statistics & probability",
+        "Linear algebra"
+      ]
+    },
+    "physics": {
+      "title": "Physics, Chemistry & Biology",
+      "tagline": "Natural science with real understanding",
+      "description": "Our tutors from KTH and Karolinska Institutet give students a solid foundation in natural sciences. We connect theory to reality and make abstract concepts comprehensible through practical examples and structured problem solving.",
+      "levels": [
+        "Middle school",
+        "High school (Physics 1–2, Chemistry 1–2, Biology 1–2)",
+        "IB & international programs"
+      ],
+      "topics": [
+        "Mechanics & forces",
+        "Electricity & magnetism",
+        "Chemical reactions",
+        "Organic chemistry",
+        "Thermodynamics",
+        "Cell biology & genetics"
+      ]
+    },
+    "languages": {
+      "title": "Swedish & English",
+      "tagline": "Stronger language, stronger academic results",
+      "description": "Language is the foundation of all academic success. Our tutors help with everything from grammar and essay writing to text analysis and oral presentations. We adapt teaching to the student's goals — national exams, grades, or preparation for higher education.",
+      "levels": [
+        "Middle school",
+        "High school (Eng 5–7, Swe 1–3)",
+        "Academic writing"
+      ],
+      "topics": [
+        "Grammar & sentence structure",
+        "Essay & argumentative writing",
+        "Text analysis & literature",
+        "Oral presentation",
+        "Vocabulary & reading comprehension"
+      ]
+    },
+    "programming": {
+      "title": "Programming",
+      "tagline": "The skill of the future, taught by the best",
+      "description": "Our tutors from KTH are among Sweden's most skilled young programmers. Whether the student wants to pass their high school course, build their own projects, or prepare for technical university studies — we have the right tutor.",
+      "levels": [
+        "High school (Programming 1–2)",
+        "Web development",
+        "University preparation"
+      ],
+      "topics": [
+        "Python",
+        "JavaScript & web development",
+        "Java",
+        "Algorithms & data structures",
+        "Project-based learning"
+      ]
+    },
+    "socialStudies": {
+      "title": "Social Studies",
+      "tagline": "History, civics, geography & religion",
+      "description": "Our tutors help students understand complex social issues, historical events, and geographical contexts. We focus on analytical thinking, source criticism, and the ability to build well-founded arguments — skills that are crucial for high grades.",
+      "levels": [
+        "Middle school (grades 7–9)",
+        "High school (Civics 1–2, History 1–2)",
+        "IB & international programs"
+      ],
+      "topics": [
+        "Civics & politics",
+        "Modern & ancient history",
+        "Geography & sustainable development",
+        "Religious studies & ethics",
+        "Source criticism & argumentation"
+      ]
+    },
+    "modernLanguages": {
+      "title": "Modern Languages",
+      "tagline": "Spanish, French, Italian & Mandarin",
+      "description": "Our language tutors are fluent speakers with academic backgrounds who help students develop both oral and written skills. Whether it's passing national exams or reaching an advanced level — we match the right tutor for the right language.",
+      "levels": [
+        "Middle school (steps 1–3)",
+        "High school (steps 3–5)",
+        "Conversation & advanced"
+      ],
+      "topics": [
+        "Spanish",
+        "French",
+        "Italian",
+        "Mandarin (Chinese)",
+        "Grammar, pronunciation & conversation"
+      ]
+    }
+  },
+  "footer": {
+    "description": "Stockholm's most exclusive private tutoring. Founded to give tutors fair compensation and parents better quality.",
+    "navigation": "Navigation",
+    "subjectsTitle": "Subjects",
+    "contactTitle": "Contact",
+    "location": "Stockholm, Sweden",
+    "bookConsultation": "Book consultation →",
+    "copyright": "© 2025 Meritia. All rights reserved.",
+    "locationTag": "Stockholm, Sweden 🇸🇪"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Page not found",
+    "returnHome": "Return to home"
+  },
+  "subjectNames": {
+    "matematik": "Mathematics",
+    "fysik": "Physics",
+    "kemi": "Chemistry",
+    "biologi": "Biology",
+    "engelska": "English",
+    "svenska": "Swedish",
+    "programmering": "Programming",
+    "ekonomi": "Economics",
+    "statistik": "Statistics",
+    "franska": "French",
+    "spanska": "Spanish",
+    "historia": "History",
+    "italienska": "Italian",
+    "mandarin": "Mandarin"
+  }
+}

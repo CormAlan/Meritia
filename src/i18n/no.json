@@ -1,0 +1,315 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "forParents": "For foreldre",
+    "subjects": "Fag",
+    "becomeTutor": "Bli tutor",
+    "about": "Om Meritia",
+    "bookConsultation": "Book konsultasjon"
+  },
+  "hero": {
+    "title1": "Akademisk hjelp i toppklasse,",
+    "title2": "redesignet.",
+    "subtitle": "Toppstudenter fra Sveriges beste universiteter. Bedre tutorer, rettferdig betaling, lavere pris.",
+    "cta": "Book gratis konsultasjon",
+    "learnMore": "Les mer",
+    "imageAlt": "Stockholms skyline"
+  },
+  "universities": {
+    "label": "Våre tutorer kommer fra",
+    "separator": " • "
+  },
+  "howItWorks": {
+    "label": "Slik fungerer det",
+    "title": "Tre enkle steg",
+    "step1Title": "Fortell oss hva du trenger",
+    "step1Desc": "Fag, nivå og mål — vi lytter og forstår.",
+    "step2Title": "Vi matcher din tutor",
+    "step2Desc": "Håndplukket toppstudent med riktig erfaring.",
+    "step3Title": "Læringen begynner",
+    "step3Desc": "Fleksible timer, målbare resultater.",
+    "rangeLabel": "01–03"
+  },
+  "whyMeritia": {
+    "label": "Hvorfor Meritia",
+    "title": "En bedre modell",
+
+    "body1": "God undervisning handler ikke bare om kunnskap, men om å bli forstått. Vi matcher hver elev med riktig veileder.",
+    "body2": "I stedet for generelle løsninger fokuserer vi på kontinuitet og retning. Hver økt bygger videre på den forrige.",
+    "body3": "Resultatet er roligere studier, bedre selvtillit og en plan som varer.",
+
+    "adv1Title": "Bedre veiledere",
+    "adv1Desc": "Kun toppstudenter fra ledende universiteter. Nøye utvalgt.",
+    "adv2Title": "Lavere pris for foreldre",
+    "adv2Desc": "Minimal margin. Du betaler for kvalitet.",
+    "adv3Title": "Høyere lønn til veiledere",
+    "adv3Desc": "Opptil 40% bedre betaling for å tiltrekke de beste."
+  },
+  "testimonials": {
+    "label": "Anmeldelser",
+    "title": "Hva andre sier",
+    "t1Text": "Datteren min gikk fra C til A i matematikk på bare ett semester. Tutorene fra KTH er fantastiske.",
+    "t1Author": "Anna L.",
+    "t1Role": "Forelder, Östermalm",
+    "t2Text": "Endelig en tjeneste som behandler tutorer med respekt. Fleksibelt, godt betalt og profesjonelt.",
+    "t2Author": "Erik S.",
+    "t2Role": "Tutor, KTH",
+    "t3Text": "Kvaliteten er i en helt annen liga. Sønnen vår elsker timene sine.",
+    "t3Author": "Maria K.",
+    "t3Role": "Forelder, Djursholm"
+  },
+  "cta": {
+    "title": "Klar for å heve listen?",
+    "subtitle": "Book en gratis konsultasjon og se hvordan Meritia kan hjelpe barnet ditt å nå sine akademiske mål.",
+    "bookCta": "Book gratis konsultasjon",
+    "becomeTutor": "Bli tutor"
+  },
+  "forParents": {
+    "label": "For foreldre",
+    "title1": "Gi barnet ditt den",
+    "title2": "beste hjelpen.",
+    "subtitle": "Meritia kobler barnet ditt med toppstudenter fra KTH, Karolinska Institutet og Handelshögskolan. Bedre kvalitet, lavere pris — uten kompromisser.",
+    "requestTutor": "Be om en tutor",
+    "benefitsLabel": "Fordeler",
+    "benefitsTitle": "Hvorfor foreldre velger oss",
+    "b1Title": "Kvalitetsgaranti",
+    "b1Desc": "Ikke fornøyd? Vi matcher deg på nytt gratis eller gir pengene tilbake.",
+    "b2Title": "Personlig matching",
+    "b2Desc": "Vi finner riktig tutor basert på fag, nivå, personlighet og lærestil.",
+    "b3Title": "Bedre pris",
+    "b3Desc": "Vår modell betyr at mer penger går til tutoren — og du betaler mindre.",
+    "b4Title": "Alle fag",
+    "b4Desc": "Matematikk, fysikk, kjemi, engelsk, svensk, programmering og mer.",
+    "pricingLabel": "Vår prisfilosofi",
+    "pricingTitle": "Mer til tutoren, mindre til mellomledd",
+    "pricingDesc": "Tradisjonelle selskaper tar 40–60% av det du betaler. Hos Meritia går majoriteten direkte til tutoren din.",
+    "pricingMeritia": "går til tutoren hos Meritia",
+    "pricingTraditional": "hos tradisjonelle selskaper",
+    "subjectsLabel": "Fag",
+    "subjectsTitle": "Vi dekker alle fag",
+    "ctaTitle": "Klar for å komme i gang?",
+    "ctaSubtitle": "Fortell oss hva dere trenger, så finner vi den perfekte tutoren."
+  },
+  "becomeTutor": {
+    "label": "Bli tutor",
+    "title1": "Undervis. Tjen mer.",
+    "title2": "Gjør en forskjell.",
+    "subtitle": "Studerer du ved KTH, Karolinska Institutet eller Handelshögskolan? Søk i dag og bli en del av Stockholms mest eksklusive tutorteam.",
+    "whyLabel": "Hvorfor Meritia",
+    "whyTitle": "Fordelene med å være Meritia-tutor",
+    "p1Title": "Bransjledende lønn",
+    "p1Desc": "Vi betaler opptil 40% mer enn andre plattformer.",
+    "p2Title": "Fleksible tider",
+    "p2Desc": "Du bestemmer timeplanen — vi tilpasser oss.",
+    "p3Title": "Eksklusivt nettverk",
+    "p3Desc": "Bli en del av et nettverk med toppstudenter fra KTH, KI og Handels.",
+    "p4Title": "Enkel onboarding",
+    "p4Desc": "Rask søknad, ingen unødvendige steg.",
+    "applyLabel": "Søk nå",
+    "applyTitle": "Send inn søknaden din",
+    "nameLabel": "Navn",
+    "namePlaceholder": "Ditt navn",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "din@email.no",
+    "universityLabel": "Universitet",
+    "universityPlaceholder": "Velg universitet",
+    "subjectLabel": "Fag",
+    "subjectPlaceholder": "F.eks. Matematikk, Fysikk",
+    "messageLabel": "Melding",
+    "messagePlaceholder": "Fortell kort om deg selv...",
+    "submitApplication": "Send søknad",
+    "thankYou": "Takk for søknaden! Vi kommer tilbake til deg snart.",
+    "whyBody1": "Vi bygger Meritia for at privatundervisning skal føles mer seriøst — for elever, foreldre og for deg som veileder. Tydelige forventninger, god struktur og respekt for tiden din.",
+    "whyBody2": "Du får fleksibilitet, men du står ikke alene: vi støtter matching, mål og kontinuitet slik at hver elev får en realistisk plan videre.",
+    "whyBody3": "Når kvaliteten er høy blir jobben mer givende. Bedre elever, bedre økter, bedre resultater — og betaling som gjenspeiler det."
+  },
+  "contact": {
+    "label": "Kontakt",
+    "title1": "La oss",
+    "title2": "snakke.",
+    "subtitle": "Book en gratis konsultasjon eller still et spørsmål. Vi svarer innen 24 timer.",
+    "sendMessage": "Send en melding",
+    "nameLabel": "Navn",
+    "namePlaceholder": "Ditt navn",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "din@email.no",
+    "phoneLabel": "Telefon (valgfritt)",
+    "phonePlaceholder": "070-XXX XX XX",
+    "messageLabel": "Melding",
+    "messagePlaceholder": "Fortell oss hvordan vi kan hjelpe deg...",
+    "submit": "Send melding",
+    "contactInfo": "Kontaktinfo",
+    "office": "Kontor",
+    "location": "Stockholm, Sverige",
+    "email": "E-post",
+    "bookConsultation": "Book konsultasjon",
+    "consultationDesc": "Gratis 15 min konsultasjon der vi diskuterer barnets behov og finner riktig tutor.",
+    "responseTime": "Svar innen 24 timer ✓",
+    "thankYou": "Takk! Vi kommer tilbake til deg innen 24 timer."
+  },
+  "about": {
+    "label": "Om Meritia",
+    "title1": "Vi tror på",
+    "title2": "en bedre modell.",
+    "subtitle": "Meritia ble grunnlagt i Stockholm med en enkel idé: hvis tutorer får bedre betalt, blir undervisningen bedre. Og hvis mellomledd minimeres, betaler foreldre mindre.",
+    "storyLabel": "Vår historie",
+    "storyTitle": "Fra frustrasjon til forandring",
+    "storyP1": "Som studenter ved KTH og Handels så vi hvordan eksisterende tutorselskaper opererte: de tok enorme marginer, betalte tutorer dårlig og leverte middelmådig kvalitet.",
+    "storyP2": "Meritia ble født fra overbevisningen om at det finnes en bedre måte. Ved å ansette utelukkende fra KTH, Karolinska Institutet og Handelshögskolan sikrer vi akademisk dyktighet. Ved å minimere marginen vår gir vi tutorer bransjledende kompensasjon — og foreldre en bedre pris.",
+    "storyP3": "I dag er Meritia Stockholms mest eksklusive privattjeneste for undervisning, bygget på prinsippet om at kvalitet aldri skal kompromitteres.",
+    "valuesLabel": "Våre verdier",
+    "valuesTitle": "Hva vi står for",
+    "v1Title": "Akademisk dyktighet",
+    "v1Desc": "Bare de beste studentene fra Sveriges mest anerkjente universiteter.",
+    "v2Title": "Rettferdig kompensasjon",
+    "v2Desc": "Vi ble grunnlagt for å gi tutorer det de fortjener — opptil 40% mer.",
+    "v3Title": "Eksklusivitet",
+    "v3Desc": "Færre tutorer, høyere kvalitet. Vår utvelgelsesprosess er bevisst streng.",
+    "ctaTitle": "Vil du vite mer?",
+    "ctaSubtitle": "Vi forteller gjerne mer om hvordan Meritia fungerer.",
+    "ctaCta": "Kontakt oss",
+    "valuesQuote": "Vi bygger ikke en markedsplass. Vi bygger en standard.",
+    "valuesQuoteBy": "MERITIAS PRINSIPP"
+  },
+  "subjects": {
+    "heroTitle1": "Fag vi",
+    "heroTitle2": "underviser",
+    "heroSubtitle": "Alle våre tutorer er toppstudenter fra KTH, Karolinska Institutet og Handelshögskolan. Her er fagene vi tilbyr.",
+    "levels": "Nivåer",
+    "topics": "Fagområder",
+    "math": {
+      "title": "Matematikk",
+      "tagline": "Fra grunnleggende algebra til avansert analyse",
+      "description": "Matematikk er vårt mest etterspurte fag.",
+      "levels": [
+        "Ungdomsskolen (trinn 7–9)",
+        "Videregående (Ma 1–5)",
+        "Universitetsmatematikk"
+      ],
+      "topics": [
+        "Algebra og likninger",
+        "Funksjoner og grafer",
+        "Derivasjon og integrasjon",
+        "Statistikk og sannsynlighet",
+        "Lineær algebra"
+      ]
+    },
+    "physics": {
+      "title": "Fysikk, kjemi og biologi",
+      "tagline": "Naturvitenskap med ekte forståelse",
+      "description": "Våre tutorer gir elevene et solid grunnlag i naturvitenskap.",
+      "levels": [
+        "Ungdomsskolen",
+        "Videregående (Fy 1–2, Kj 1–2, Bi 1–2)",
+        "IB og internasjonale programmer"
+      ],
+      "topics": [
+        "Mekanikk og krefter",
+        "Elektrisitet og magnetisme",
+        "Kjemiske reaksjoner",
+        "Organisk kjemi",
+        "Termodynamikk",
+        "Biologi og genetikk"
+      ]
+    },
+    "languages": {
+      "title": "Svensk og engelsk",
+      "tagline": "Sterkere språk, sterkere akademiske resultater",
+      "description": "Språk er grunnlaget for all akademisk suksess.",
+      "levels": [
+        "Ungdomsskolen",
+        "Videregående (Eng 5–7, Sve 1–3)",
+        "Akademisk skriving"
+      ],
+      "topics": [
+        "Grammatikk og setningsoppbygging",
+        "Essay og argumenterende tekst",
+        "Tekstanalyse og litteratur",
+        "Muntlig presentasjon",
+        "Ordforråd og leseforståelse"
+      ]
+    },
+    "programming": {
+      "title": "Programmering",
+      "tagline": "Fremtidens kompetanse, lært av de beste",
+      "description": "Våre tutorer fra KTH er blant Sveriges dyktigste unge programmerere.",
+      "levels": [
+        "Videregående (Programmering 1–2)",
+        "Webutvikling",
+        "Universitetsforbredende"
+      ],
+      "topics": [
+        "Python",
+        "JavaScript og webutvikling",
+        "Java",
+        "Algoritmer og datastrukturer",
+        "Prosjektbasert læring"
+      ]
+    },
+    "socialStudies": {
+      "title": "Samfunnsfag",
+      "tagline": "Historie, samfunnskunnskap, geografi og religion",
+      "description": "Våre tutorer hjelper elever å forstå komplekse samfunnsspørsmål.",
+      "levels": [
+        "Ungdomsskolen (trinn 7–9)",
+        "Videregående (Sf 1–2, Hi 1–2)",
+        "IB og internasjonale programmer"
+      ],
+      "topics": [
+        "Samfunnskunnskap og politikk",
+        "Moderne og eldre historie",
+        "Geografi og bærekraftig utvikling",
+        "Religionskunnskap og etikk",
+        "Kildekritikk og argumentasjon"
+      ]
+    },
+    "modernLanguages": {
+      "title": "Moderne språk",
+      "tagline": "Spansk, fransk, italiensk og mandarin",
+      "description": "Våre språktutorer er flytende talere med akademisk bakgrunn.",
+      "levels": [
+        "Ungdomsskolen (trinn 1–3)",
+        "Videregående (trinn 3–5)",
+        "Samtale og fordypning"
+      ],
+      "topics": [
+        "Spansk",
+        "Fransk",
+        "Italiensk",
+        "Mandarin (kinesisk)",
+        "Grammatikk, uttale og samtale"
+      ]
+    }
+  },
+  "footer": {
+    "description": "Stockholms mest eksklusive privatundervisning. Grunnlagt for å gi tutorer rettferdig betaling og foreldre bedre kvalitet.",
+    "navigation": "Navigasjon",
+    "subjectsTitle": "Fag",
+    "contactTitle": "Kontakt",
+    "location": "Stockholm, Sverige",
+    "bookConsultation": "Book konsultasjon →",
+    "copyright": "© 2025 Meritia. Alle rettigheter forbeholdt.",
+    "locationTag": "Stockholm, Sverige 🇸🇪"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Siden ble ikke funnet",
+    "returnHome": "Tilbake til forsiden"
+  },
+  "subjectNames": {
+    "matematik": "Matematikk",
+    "fysik": "Fysikk",
+    "kemi": "Kjemi",
+    "biologi": "Biologi",
+    "engelska": "Engelsk",
+    "svenska": "Svensk",
+    "programmering": "Programmering",
+    "ekonomi": "Økonomi",
+    "statistik": "Statistikk",
+    "franska": "Fransk",
+    "spanska": "Spansk",
+    "historia": "Historie",
+    "italienska": "Italiensk",
+    "mandarin": "Mandarin"
+  }
+}

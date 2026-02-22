@@ -1,0 +1,314 @@
+{
+  "nav": {
+    "home": "Seretê",
+    "forParents": "Ji bo dêûbavan",
+    "subjects": "Dersên",
+    "becomeTutor": "Bibe mamoste",
+    "about": "Derbarê Meritia",
+    "bookConsultation": "Şêwirmendiyê bikin"
+  },
+  "hero": {
+    "title1": "Alîkariya akademîk a bilind,",
+    "title2": "ji nû ve hatiye sêwirandin.",
+    "subtitle": "Xwendekarên herî baş ji baştirîn zanîngehên Swêdê. Mamosteyên çêtir, meaşê dadperwer, bihayê kêmtir.",
+    "cta": "Şêwirmendiya belaş bikin",
+    "learnMore": "Zêdetir bixwîne",
+    "imageAlt": "Sîlûeta Stokholma"
+  },
+  "universities": {
+    "label": "Mamosteyên me ji van tên",
+    "separator": " • "
+  },
+  "howItWorks": {
+    "label": "Çawa dixebite",
+    "title": "Sê gavên hêsan",
+    "step1Title": "Ji me re bêje çi hewce ye",
+    "step1Desc": "Ders, ast û armanc — em guhdarî dikin û fam dikin.",
+    "step2Title": "Em mamosteyê te dibînin",
+    "step2Desc": "Xwendekarê bijarte yê herî baş bi ezmûna rast.",
+    "step3Title": "Hînbûn dest pê dike",
+    "step3Desc": "Dersên maqûl, encamên pîvanbar.",
+    "rangeLabel": "01–03"
+  },
+  "whyMeritia": {
+    "label": "Çima Meritia",
+    "title": "Modela baştir",
+
+    "body1": "Fêrbûna baş tenê li ser zanînê ne—li ser têgihiştinê ye. Em her xwendekarê bi mamosteyekê re li hev dikin ku bi tempo, armanc û awayê fikirînê yê wî re diguncîne.",
+    "body2": "Li şûna çareseriyên giştî, em li ser domdarî û rêbazê dixebitin. Her civîn li ser yê berê tê avakirin da ku pêşketin bi demê re zelal bibe.",
+    "body3": "Encam: xwendina aramتر, baweriya xwe zêdetir, û planek ku bi rastî dom dike.",
+
+    "adv1Title": "Mamosteyên baştir",
+    "adv1Desc": "Tenê xwendekarên herî baş ji zanîngehên sereke. Bi baldarî têne hilbijartin û amade kirin.",
+    "adv2Title": "Nirxê kêmتر bo dêûbavan",
+    "adv2Desc": "Marginê me hindik e. Tu ji bo kalîteyê didî, ne ji bo navberan.",
+    "adv3Title": "Heqê zêdetir bo mamosteyan",
+    "adv3Desc": "Em dikarin heqê wan heta 40% zêde bikin da ku herî başan bikişînin."
+  },
+  "testimonials": {
+    "label": "Nirxandin",
+    "title": "Yên din çi dibêjin",
+    "t1Text": "Keça min di matematîkê de ji C berbi A ve çû di tenê yek semesterê de. Mamosteyên ji KTH ecêb in.",
+    "t1Author": "Anna L.",
+    "t1Role": "Dêûbav, Östermalm",
+    "t2Text": "Di dawiyê de karûbarek ku bi rêzdarî bi mamosteyên re dimeşe. Maqûl, baş tê dayîn, û profesyonel.",
+    "t2Author": "Erik S.",
+    "t2Role": "Mamoste, KTH",
+    "t3Text": "Kalîte bi tevahî di astek din de ye. Kurê me dersên xwe hez dike.",
+    "t3Author": "Maria K.",
+    "t3Role": "Dêûbav, Djursholm"
+  },
+  "cta": {
+    "title": "Amade yî ku astê bilind bikî?",
+    "subtitle": "Şêwirmendiya belaş bikin û bibînin ka Meritia çawa dikare alîkariya zarokê we bike ku bigihîje armancên xwe yên akademîk.",
+    "bookCta": "Şêwirmendiya belaş bikin",
+    "becomeTutor": "Bibe mamoste"
+  },
+  "forParents": {
+    "label": "Ji bo dêûbavan",
+    "title1": "Alîkariya herî baş bide",
+    "title2": "zarokê xwe.",
+    "subtitle": "Meritia zarokê we bi xwendekarên herî baş yên KTH, Karolinska Institutet û Handelshögskolan ve girê dide. Kalîteya çêtir, bihayê kêmtir — bêyî lihevkirinê.",
+    "requestTutor": "Mamosteyekî bixwaze",
+    "benefitsLabel": "Feydeyên",
+    "benefitsTitle": "Çima dêûbav me hildibijêrin",
+    "b1Title": "Garantiya kalîteyê",
+    "b1Desc": "Razî nebûyî? Em belaş ji nû ve li hev tînin an jî pereyan vedigerînin.",
+    "b2Title": "Lihevhatina kesane",
+    "b2Desc": "Em mamosteyê rast li gorî ders, ast, kesayetî û şêwaza hînbûnê dibînin.",
+    "b3Title": "Bihayê çêtir",
+    "b3Desc": "Modela me tê wê wateyê ku zêdetir pere diçe mamosteyê — û tu kêmtir didî.",
+    "b4Title": "Hemû ders",
+    "b4Desc": "Matematîk, fîzîk, kîmya, îngilîzî, swêdî, bernamekirinî û zêdetir.",
+    "pricingLabel": "Felsefeya bihayê me",
+    "pricingTitle": "Zêdetir ji bo mamosteyê, kêmtir ji bo navbeynkaran",
+    "pricingDesc": "Pargîdaniyên kevneşopî %40-60 ji tiştê ku tu didî digirin. Li Meritia, piranî rasterast diçe mamosteyê te.",
+    "pricingMeritia": "diçe mamosteyê li Meritia",
+    "pricingTraditional": "li pargîdaniyên kevneşopî",
+    "subjectsLabel": "Ders",
+    "subjectsTitle": "Em hemû dersan digirin",
+    "ctaTitle": "Amade yî ku dest pê bikî?",
+    "ctaSubtitle": "Ji me re bêje çi hewce ye, em ê mamosteyê bêkêmasî bibînin."
+  },
+  "becomeTutor": {
+    "label": "Bibe mamoste",
+    "title1": "Hîn bike. Zêdetir qezenc bike.",
+    "title2": "Cudahiyê çêbike.",
+    "subtitle": "Tu li KTH, Karolinska Institutet an Handelshögskolan dixwînî? Îro serlêde û bibe beşek ji tîmê mamosteyên herî bijarte yê Stokholmê.",
+    "whyLabel": "Çima Meritia",
+    "whyTitle": "Feydeyên bûna mamosteyê Meritia",
+    "p1Title": "Meaşê pêşeng di pîşesaziyê de",
+    "p1Desc": "Em heta %40 zêdetir ji platformên din didin.",
+    "p2Title": "Demên maqûl",
+    "p2Desc": "Tu bernameyê diyar dikî — em xwe li gorî te dikin.",
+    "p3Title": "Tora taybet",
+    "p3Desc": "Bibe beşek ji torek xwendekarên herî baş ji KTH, KI û Handels.",
+    "p4Title": "Tevlîbûna hêsan",
+    "p4Desc": "Serlêdana bilez, bêyî gavên nepêwîst.",
+    "applyLabel": "Niha serlêde",
+    "applyTitle": "Serlêdana xwe bişîne",
+    "nameLabel": "Nav",
+    "namePlaceholder": "Navê te",
+    "emailLabel": "E-peyam",
+    "emailPlaceholder": "te@email.com",
+    "universityLabel": "Zanîngehî",
+    "universityPlaceholder": "Zanîngehê hilbijêre",
+    "subjectLabel": "Ders",
+    "subjectPlaceholder": "Mînak Matematîk, Fîzîk",
+    "messageLabel": "Peyam",
+    "messagePlaceholder": "Bi kurtasî ji me re qala xwe bike...",
+    "submitApplication": "Serlêdanê bişîne",
+    "thankYou": "Spas ji bo serlêdana te! Em ê zû bi te re têkilî daynin.",
+    "whyBody1": "Me Meritia ava kir da ku dersdana taybetî bibe profesionalتر — ji bo xwendekaran, dêûbavan û ji bo te wekî mamoste. Vêbêjên zelal, strukturê baş û rêz ji bo demê te.",
+    "whyBody2": "Te flexîbîlî heye, lê tu tenê namînî: em di matchingê, armancan û domdarî de alîkarî dikin da ku her xwendekar planek rehet û realîst hebê.",
+    "whyBody3": "Dema kalite bilind be, kar jî kêfxweşتر dibe. Xwendekarên başتر, civînên başتر, encamên başتر — û heqê ku ev qasî nîşan dide."
+  },
+  "contact": {
+    "label": "Têkilî",
+    "title1": "Werin em",
+    "title2": "bipeyivin.",
+    "subtitle": "Şêwirmendiya belaş bikin an pirsek bipirsin. Em di nav 24 saetan de bersivê didin.",
+    "sendMessage": "Peyamek bişîne",
+    "nameLabel": "Nav",
+    "namePlaceholder": "Navê te",
+    "emailLabel": "E-peyam",
+    "emailPlaceholder": "te@email.com",
+    "phoneLabel": "Telefon (bijartî)",
+    "phonePlaceholder": "070-XXX XX XX",
+    "messageLabel": "Peyam",
+    "messagePlaceholder": "Ji me re bêje em çawa dikarin alîkariya te bikin...",
+    "submit": "Peyamê bişîne",
+    "contactInfo": "Agahdariya têkiliyê",
+    "office": "Nivîsgeh",
+    "location": "Stokholm, Swêd",
+    "email": "E-peyam",
+    "bookConsultation": "Şêwirmendî bikin",
+    "consultationDesc": "Şêwirmendiya belaş a 15 deq ku em hewcedariyên zarokê te nîqaş dikin û mamosteyê rast dibînin.",
+    "responseTime": "Bersiv di nav 24 saetan de ✓",
+    "thankYou": "Spas! Em ê di nav 24 saetan de bi te re têkilî daynin."
+  },
+  "about": {
+    "label": "Derbarê Meritia",
+    "title1": "Em bawer dikin bi",
+    "title2": "modelek çêtir.",
+    "subtitle": "Meritia li Stokholmê bi ramanek sade hate damezrandin: heke mamosteyan meaşê çêtir bistînin, perwerdehî çêtir dibe. Û heke navbeynkar kêm bibin, dêûbav kêmtir didin.",
+    "storyLabel": "Çîroka me",
+    "storyTitle": "Ji bêhêvîtiyê berbi guherînê",
+    "storyP1": "Wek xwendekarên li KTH û Handels, me dît ku pargîdaniyên mamostekariyê yên heyî çawa dixebitin: wan marjînên mezin digirtin, mamosteyan xirab didan û kalîteya navîn radest dikirin.",
+    "storyP2": "Meritia ji wê baweriyê çêbû ku rêyek çêtir heye. Bi peywirkirina bi tenê ji KTH, Karolinska Institutet û Handelshögskolan em serketina akademîk misoger dikin.",
+    "storyP3": "Îro, Meritia karûbarê perwerdehiya taybet a herî bijarte ya Stokholmê ye.",
+    "valuesLabel": "Nirxên me",
+    "valuesTitle": "Em ji bo çi radiwestin",
+    "v1Title": "Serketina akademîk",
+    "v1Desc": "Tenê xwendekarên herî baş ji zanîngehên herî navdar ên Swêdê.",
+    "v2Title": "Meaşê dadperwer",
+    "v2Desc": "Em hate damezrandin ku mamosteyên tiştê ku hêjayî ne bidin — heta %40 zêdetir.",
+    "v3Title": "Bijaretî",
+    "v3Desc": "Mamosteyên kêmtir, kalîteya bilindtir. Pêvajoya hilbijartina me bi zanebûn hişk e.",
+    "ctaTitle": "Dixwazî zêdetir bizanî?",
+    "ctaSubtitle": "Em bi kêfxweşî ji te re zêdetir ji derbarê Meritia re dibêjin.",
+    "ctaCta": "Bi me re têkilî daynin",
+    "valuesQuote": "Em bazar navaxin. Em standard ava dikin.",
+    "valuesQuoteBy": "PRINSÎBA MERITIA"
+  },
+  "subjects": {
+    "heroTitle1": "Dersên ku em",
+    "heroTitle2": "hîn dikin",
+    "heroSubtitle": "Hemû mamosteyên me xwendekarên herî baş ji KTH, Karolinska Institutet û Handelshögskolan in.",
+    "levels": "Ast",
+    "topics": "Warên dersê",
+    "math": {
+      "title": "Matematîk",
+      "tagline": "Ji algebrê ya bingehîn heta analîza pêşketî",
+      "description": "Matematîk dersa me ya herî pirzêde tê xwestin.",
+      "levels": [
+        "Navîn (pol 7–9)",
+        "Lîsê (Ma 1–5)",
+        "Matematîka zanîngehê"
+      ],
+      "topics": [
+        "Algebra û hevkêşe",
+        "Fonksîyon û grafîk",
+        "Dêrîvatîv û entegral",
+        "Statîstîk û îhtîmal",
+        "Algebrê ya xêzikî"
+      ]
+    },
+    "physics": {
+      "title": "Fîzîk û kîmya",
+      "tagline": "Zanistên xwezayî bi têgihiştina rastîn",
+      "description": "Mamosteyên me bingehek zexm di zanistên xwezayî de didin xwendekaran.",
+      "levels": [
+        "Navîn",
+        "Lîsê (Fî 1–2, Kî 1–2)",
+        "IB û bernameyên navneteweyî"
+      ],
+      "topics": [
+        "Mekanîk û hêz",
+        "Elektrîk û magnetîzm",
+        "Reaksiyonên kîmyewî",
+        "Kîmyaya organîk",
+        "Termodînamîk"
+      ]
+    },
+    "languages": {
+      "title": "Swêdî û îngilîzî",
+      "tagline": "Zimanê xurttir, encamên akademîk ên xurttir",
+      "description": "Ziman bingeha hemû serketinên akademîk e.",
+      "levels": [
+        "Navîn",
+        "Lîsê (Îng 5–7, Swê 1–3)",
+        "Nivîsandina akademîk"
+      ],
+      "topics": [
+        "Rêziman û avakirina hevokan",
+        "Gotarên û nivîsên argûmanî",
+        "Analîza nivîsê û wêje",
+        "Pêşkêşkirina devkî",
+        "Ferheng û têgihiştina xwendinê"
+      ]
+    },
+    "programming": {
+      "title": "Bernamekirinî",
+      "tagline": "Şiyana pêşerojê, ji hêla herî başan ve tê hînkirin",
+      "description": "Mamosteyên me ji KTH di nav bernamkerên ciwan ên herî jêhatî yên Swêdê de ne.",
+      "levels": [
+        "Lîsê (Bernamekirinî 1–2)",
+        "Pêşvebirina malperê",
+        "Amadekariya zanîngehê"
+      ],
+      "topics": [
+        "Python",
+        "JavaScript û pêşvebirina malperê",
+        "Java",
+        "Algorîtma û strukturên daneyan",
+        "Hînbûna li ser projeyê"
+      ]
+    },
+    "socialStudies": {
+      "title": "Zanistên civakî",
+      "tagline": "Dîrok, zanistên civakî, erdnîgarî û ol",
+      "description": "Mamosteyên me ji xwendekaran re dibin alîkar ku pirsgirêkên civakî yên tevlihev fam bikin.",
+      "levels": [
+        "Navîn (pol 7–9)",
+        "Lîsê (Ci 1–2, Dî 1–2)",
+        "IB û bernameyên navneteweyî"
+      ],
+      "topics": [
+        "Zanistên civakî û siyaset",
+        "Dîroka nûjen û kevnar",
+        "Erdnîgarî û pêşveçûna domdar",
+        "Lêkolînên olî û exlaqê",
+        "Rexneya çavkaniyê û argûman"
+      ]
+    },
+    "modernLanguages": {
+      "title": "Zimanên nûjen",
+      "tagline": "Spanî, fransî, îtalî û mandarîn",
+      "description": "Mamosteyên zimanê me axêverên domdar in bi paşxaneya akademîk.",
+      "levels": [
+        "Navîn (gam 1–3)",
+        "Lîsê (gam 3–5)",
+        "Sohbet û kûrbûn"
+      ],
+      "topics": [
+        "Spanî",
+        "Fransî",
+        "Îtalî",
+        "Mandarîn (çînî)",
+        "Rêziman, bilêvkirin û sohbet"
+      ]
+    }
+  },
+  "footer": {
+    "description": "Karûbarê perwerdehiya taybet a herî bijarte ya Stokholmê.",
+    "navigation": "Navîgasyon",
+    "subjectsTitle": "Ders",
+    "contactTitle": "Têkilî",
+    "location": "Stokholm, Swêd",
+    "bookConsultation": "Şêwirmendî bikin →",
+    "copyright": "© 2025 Meritia. Hemû maf parastî ne.",
+    "locationTag": "Stokholm, Swêd 🇸🇪"
+  },
+  "notFound": {
+    "title": "404",
+    "message": "Rûpel nehat dîtin",
+    "returnHome": "Vegere serûpelê"
+  },
+  "subjectNames": {
+    "matematik": "Matematîk",
+    "fysik": "Fîzîk",
+    "kemi": "Kîmya",
+    "biologi": "Biyolojî",
+    "engelska": "Îngilîzî",
+    "svenska": "Swêdî",
+    "programmering": "Bernamekirinî",
+    "ekonomi": "Aborî",
+    "statistik": "Statîstîk",
+    "franska": "Fransî",
+    "spanska": "Spanî",
+    "historia": "Dîrok",
+    "italienska": "Îtalî",
+    "mandarin": "Mandarîn"
+  }
+}
