@@ -99,6 +99,41 @@ const Index = () => {
         </div>
       </section>
 
+      {/* Universities */}
+      <section className="bg-secondary px-6 py-12 md:py-14 md:px-12 lg:px-24">
+        <div className="max-w-7xl mx-auto text-center">
+          <FadeIn>
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-muted-foreground mb-10">
+              {t("universities.label")}
+            </p>
+
+            <div className="flex flex-wrap justify-center items-center gap-16 md:gap-28">
+              {/* KTH */}
+              <img
+                src="/KTH_logga.jpeg"
+                alt="KTH"
+                className="h-20 md:h-24 w-20 md:w-24 object-contain opacity-80 hover:opacity-100 transition"
+              />
+
+              {/* KI */}
+              <img
+                src="/KI_logga.jpg"
+                alt="Karolinska Institutet"
+                className="h-20 md:h-24 w-20 md:w-24 object-contain opacity-80 hover:opacity-100 transition"
+              />
+
+              {/* HHS */}
+              <img
+                src="/HHS_logga.png"
+                alt="Handelshögskolan"
+                className="h-20 md:h-24 w-20 md:w-24 object-contain opacity-80 hover:opacity-100 transition"
+              />
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
+
       {/* HOW IT WORKS */}
       <section className="py-16">
         <div className="container mx-auto px-4 max-w-6xl">
