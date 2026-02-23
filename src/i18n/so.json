@@ -121,7 +121,13 @@
     "thankYou": "Mahadsanid codsigaaga! Waan kuula soo noqon doonaa dhawaan.",
     "whyBody1": "Waxaan Meritia u dhisnay si waxbarashada gaarka ahi u noqoto mid dhab ahaan xirfad leh — arday, waalid iyo adiga tutor ahaanba. Filasho cad, hab dhisan, iyo qadarin waqtigaaga.",
     "whyBody2": "Waxaad helaysaa dabacsanaan, balse keligaa lagama tagayo: waxaan taageernaa is-waafajinta, yoolalka iyo joogteynta si arday kastaa u helo qorshe macquul ah oo uu ku socdo.",
-    "whyBody3": "Marka tayadu sarreyso, shaqadu way ka macaan tahay. Arday fiican, kulammo fiican, natiijo fiican — iyo mushahar taas la jaan qaadaya."
+    "whyBody3": "Marka tayadu sarreyso, shaqadu way ka macaan tahay. Arday fiican, kulammo fiican, natiijo fiican — iyo mushahar taas la jaan qaadaya.",
+    "phoneLabel": "Telefoon",
+    "yearLabel": "Sannadka waxbarasho",
+    "cvPdfOnly": "Waxaa kaliya PDF fileyada oo la codsan karaa",
+    "cvHelp": "Ku xir CV-kaaga PDF-ga",
+    "sending": "Soo diray...",
+    "yearPlaceholder": "Dooro sannadka waxbarasho"
   },
   "contact": {
     "label": "La xiriir",

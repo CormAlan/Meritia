@@ -11,15 +11,62 @@ const BecomeTutor = () => {
   const [form, setForm] = useState({
     name: "",
     email: "",
+    phone: "",
     university: "",
+    year: "",
     subject: "",
     message: "",
   });
+  const [cvFile, setCvFile] = useState<File | null>(null);
+  const [cvInputKey, setCvInputKey] = useState(0);
+  const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
+  const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const FORMSPREE_ENDPOINT = "https://formspree.io/f/xaqdlwpn";
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    alert(t("becomeTutor.thankYou"));
-    setForm({ name: "", email: "", university: "", subject: "", message: "" });
+    setStatus("submitting");
+    setErrorMsg(null);
+
+    try {
+      const data = new FormData();
+      data.append("name", form.name);
+      data.append("email", form.email);
+      data.append("_replyto", form.email);
+      if (form.phone) data.append("phone", form.phone);
+      data.append("university", form.university);
+      if (form.year) data.append("year", form.year);
+      data.append("subject", form.subject);
+      if (form.message) data.append("message", form.message);
+      if (cvFile) data.append("cv", cvFile);
+
+      const res = await fetch(FORMSPREE_ENDPOINT, {
+        method: "POST",
+        body: data,
+        headers: {
+          Accept: "application/json",
+        },
+      });
+
+      if (res.ok) {
+        setStatus("success");
+        setForm({ name: "", email: "", phone: "", university: "", year: "", subject: "", message: "" });
+        setCvFile(null);
+        setCvInputKey((k) => k + 1);
+        return;
+      }
+
+      const payload = (await res.json().catch(() => null)) as
+        | { errors?: Array<{ message?: string }> }
+        | null;
+      const msg = payload?.errors?.[0]?.message || "Something went wrong. Please try again.";
+      setErrorMsg(msg);
+      setStatus("error");
+    } catch (err) {
+      setErrorMsg(err instanceof Error ? err.message : "Something went wrong. Please try again.");
+      setStatus("error");
+    }
   };
 
   const perks = [
@@ -146,7 +193,7 @@ const BecomeTutor = () => {
               </h2>
             </div>
 
-            <form onSubmit={handleSubmit} className="space-y-6">
+            <form onSubmit={handleSubmit} className="space-y-6" encType="multipart/form-data">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
                   <label className="text-sm font-medium text-foreground mb-2 block">
@@ -173,6 +220,42 @@ const BecomeTutor = () => {
                     className="w-full bg-card border border-border rounded-xl px-4 py-3 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
                     placeholder={t("becomeTutor.emailPlaceholder")}
                   />
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <label className="text-sm font-medium text-foreground mb-2 block">
+                    {t("becomeTutor.phoneLabel", { defaultValue: "Telefon" })}
+                  </label>
+                  <input
+                    type="tel"
+                    required
+                    value={form.phone}
+                    onChange={(e) => setForm({ ...form, phone: e.target.value })}
+                    className="w-full bg-card border border-border rounded-xl px-4 py-3 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
+                    placeholder={t("becomeTutor.phonePlaceholder", { defaultValue: "+46 70 123 45 67" })}
+                  />
+                </div>
+
+                <div>
+                  <label className="text-sm font-medium text-foreground mb-2 block">
+                    {t("becomeTutor.yearLabel", { defaultValue: "Årskurs" })}
+                  </label>
+                  <select
+                    required
+                    value={form.year}
+                    onChange={(e) => setForm({ ...form, year: e.target.value })}
+                    className="w-full bg-card border border-border rounded-xl px-4 py-3 text-foreground focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
+                  >
+                    <option value="">{t("becomeTutor.yearPlaceholder", { defaultValue: "Välj årskurs" })}</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6+">6+</option>
+                  </select>
                 </div>
               </div>
 
@@ -222,12 +305,50 @@ const BecomeTutor = () => {
                 />
               </div>
 
+              <div>
+                <label className="text-sm font-medium text-foreground mb-2 block">
+                  {t("becomeTutor.cvLabel", { defaultValue: "CV (PDF)" })}
+                </label>
+                <input
+                  key={cvInputKey}
+                  type="file"
+                  accept="application/pdf"
+                  required
+                  onChange={(e) => {
+                    const f = e.target.files?.[0] ?? null;
+                    // Extra guard: only allow PDFs
+                    if (f && f.type !== "application/pdf") {
+                      setErrorMsg(t("becomeTutor.cvPdfOnly", { defaultValue: "Endast PDF-filer är tillåtna." }));
+                      setStatus("error");
+                      e.target.value = "";
+                      setCvFile(null);
+                      return;
+                    }
+                    setCvFile(f);
+                  }}
+                  className="w-full bg-card border border-border rounded-xl px-4 py-3 text-foreground file:mr-4 file:rounded-lg file:border-0 file:bg-secondary file:px-4 file:py-2 file:text-sm file:font-medium hover:file:bg-secondary/80 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
+                />
+                <p className="mt-2 text-xs text-muted-foreground">
+                  {t("becomeTutor.cvHelp", { defaultValue: "Bifoga ditt CV som PDF" })}
+                </p>
+              </div>
+
               <button
                 type="submit"
-                className="w-full bg-primary text-primary-foreground py-4 rounded-xl font-semibold hover:bg-primary/90 transition-all duration-300 flex items-center justify-center gap-2"
+                disabled={status === "submitting"}
+                className="w-full bg-primary text-primary-foreground py-4 rounded-xl font-semibold hover:bg-primary/90 transition-all duration-300 flex items-center justify-center gap-2 disabled:opacity-60 disabled:cursor-not-allowed"
               >
-                {t("becomeTutor.submitApplication")} <ArrowRight size={18} />
+                {status === "submitting"
+                  ? t("becomeTutor.sending", { defaultValue: "Skickar..." })
+                  : t("becomeTutor.submitApplication")} <ArrowRight size={18} />
               </button>
+
+              {status === "success" && (
+                <p className="text-sm text-primary">{t("becomeTutor.thankYou")}</p>
+              )}
+              {status === "error" && (
+                <p className="text-sm text-destructive">{errorMsg}</p>
+              )}
             </form>
           </FadeIn>
         </div>

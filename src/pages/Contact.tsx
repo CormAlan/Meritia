@@ -8,11 +8,48 @@ import DotGrid from "@/components/DotGrid";
 const Contact = () => {
   const { t } = useTranslation();
   const [form, setForm] = useState({ name: "", email: "", phone: "", message: "" });
+  const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
+  const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const FORMSPREE_ENDPOINT = "https://formspree.io/f/xlgwoewy";
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    alert(t("contact.thankYou"));
-    setForm({ name: "", email: "", phone: "", message: "" });
+    setStatus("submitting");
+    setErrorMsg(null);
+
+    try {
+      const data = new FormData();
+      data.append("name", form.name);
+      data.append("email", form.email);
+      data.append("_replyto", form.email);
+      if (form.phone) data.append("phone", form.phone);
+      data.append("message", form.message);
+
+      const res = await fetch(FORMSPREE_ENDPOINT, {
+        method: "POST",
+        body: data,
+        headers: {
+          Accept: "application/json",
+        },
+      });
+
+      if (res.ok) {
+        setStatus("success");
+        setForm({ name: "", email: "", phone: "", message: "" });
+        return;
+      }
+
+      const payload = (await res.json().catch(() => null)) as
+        | { errors?: Array<{ message?: string }> }
+        | null;
+      const msg = payload?.errors?.[0]?.message || "Something went wrong. Please try again.";
+      setErrorMsg(msg);
+      setStatus("error");
+    } catch (err) {
+      setErrorMsg(err instanceof Error ? err.message : "Something went wrong. Please try again.");
+      setStatus("error");
+    }
   };
 
   return (
@@ -63,9 +100,22 @@ const Contact = () => {
                   <label className="text-sm font-medium text-foreground mb-2 block">{t("contact.messageLabel")}</label>
                   <textarea rows={5} required value={form.message} onChange={(e) => setForm({ ...form, message: e.target.value })} className="w-full bg-card border border-border rounded-xl px-4 py-3 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all resize-none" placeholder={t("contact.messagePlaceholder")} />
                 </div>
-                <button type="submit" className="w-full bg-primary text-primary-foreground py-4 rounded-xl font-semibold hover:bg-primary/90 transition-all duration-300 flex items-center justify-center gap-2">
-                  {t("contact.submit")} <ArrowRight size={18} />
+                <button
+                  type="submit"
+                  disabled={status === "submitting"}
+                  className="w-full bg-primary text-primary-foreground py-4 rounded-xl font-semibold hover:bg-primary/90 transition-all duration-300 flex items-center justify-center gap-2 disabled:opacity-60 disabled:cursor-not-allowed"
+                >
+                  {status === "submitting"
+                    ? t("contact.sending", { defaultValue: "Skickar..." })
+                    : t("contact.submit")} <ArrowRight size={18} />
                 </button>
+
+                {status === "success" && (
+                  <p className="text-sm text-primary">{t("contact.thankYou")}</p>
+                )}
+                {status === "error" && (
+                  <p className="text-sm text-destructive">{errorMsg}</p>
+                )}
               </form>
             </FadeIn>
           </div>

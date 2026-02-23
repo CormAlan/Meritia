@@ -121,7 +121,13 @@
     "thankYou": "Kiitos hakemuksestasi! Otamme sinuun yhteyttä pian.",
     "whyBody1": "Rakensimme Meritian, jotta yksityisopetus tuntuisi ammattimaisemmalta — oppilaille, vanhemmille ja sinulle tutorina. Selkeät odotukset, hyvä rakenne ja kunnioitus ajankäyttöäsi kohtaan.",
     "whyBody2": "Saat joustavuuden, mutta et jää yksin: autamme sopivan parin löytämisessä, tavoitteissa ja jatkuvuudessa, jotta oppilaalla on realistinen suunnitelma eteenpäin.",
-    "whyBody3": "Kun laatu on korkea, työ on palkitsevampaa. Paremmat oppilaat, paremmat tapaamiset, paremmat tulokset — ja korvaus, joka vastaa sitä."
+    "whyBody3": "Kun laatu on korkea, työ on palkitsevampaa. Paremmat oppilaat, paremmat tapaamiset, paremmat tulokset — ja korvaus, joka vastaa sitä.",
+    "phoneLabel": "Puhelin",
+    "yearLabel": "Vuosi",
+    "cvPdfOnly": "Vain PDF-tiedostoja sallittu",
+    "cvHelp": "Liitä CV PDF-muodossa",
+    "sending": "Lähettää...",
+    "yearPlaceholder": "Valitse vuosi"
   },
   "contact": {
     "label": "Yhteystiedot",

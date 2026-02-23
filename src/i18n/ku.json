@@ -121,7 +121,13 @@
     "thankYou": "Spas ji bo serlêdana te! Em ê zû bi te re têkilî daynin.",
     "whyBody1": "Me Meritia ava kir da ku dersdana taybetî bibe profesionalتر — ji bo xwendekaran, dêûbavan û ji bo te wekî mamoste. Vêbêjên zelal, strukturê baş û rêz ji bo demê te.",
     "whyBody2": "Te flexîbîlî heye, lê tu tenê namînî: em di matchingê, armancan û domdarî de alîkarî dikin da ku her xwendekar planek rehet û realîst hebê.",
-    "whyBody3": "Dema kalite bilind be, kar jî kêfxweşتر dibe. Xwendekarên başتر, civînên başتر, encamên başتر — û heqê ku ev qasî nîşan dide."
+    "whyBody3": "Dema kalite bilind be, kar jî kêfxweştr dibe. Xwendekarên baştr, civînên baştr, encamên baştr — û heqê ku ev qasî nîşan dide.",
+    "phoneLabel": "Telefon",
+    "yearLabel": "Sala akademîk",
+    "cvPdfOnly": "Tenê pelên PDF tên qebûlkirin.",
+    "cvHelp": "CV-ya xwe wekî PDFê lê zêde bike.",
+    "sending": "Tê şandin...",
+    "yearPlaceholder": "Sala akademîk hilbijêre"
   },
   "contact": {
     "label": "Têkilî",

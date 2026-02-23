@@ -121,7 +121,13 @@
     "thankYou": "Thank you for your application! We'll get back to you soon.",
     "whyBody1": "We built Meritia to make tutoring feel more serious — for students, parents, and for you as a tutor. Clear expectations, solid structure, and respect for your time.",
     "whyBody2": "You keep the flexibility, but you are not left alone: we support matching, goals, and continuity so each student has a realistic plan forward.",
-    "whyBody3": "When the quality is high, the work becomes more rewarding. Better students, better sessions, better outcomes — and compensation that reflects it."
+    "whyBody3": "When the quality is high, the work becomes more rewarding. Better students, better sessions, better outcomes — and compensation that reflects it.",
+    "phoneLabel": "Phone",
+    "yearLabel": "Academic year",
+    "cvPdfOnly": "Only PDF files are allowed",
+    "cvHelp": "Attach your CV in PDF format",
+    "sending": "Sending...",
+    "yearPlaceholder": "Select academic year"
   },
   "contact": {
     "label": "Contact",

@@ -121,7 +121,13 @@
     "thankYou": "¡Gracias por tu solicitud! Te contactaremos pronto.",
     "whyBody1": "Creamos Meritia para que las tutorías se sientan más serias — para estudiantes, familias y para ti como tutor. Expectativas claras, buena estructura y respeto por tu tiempo.",
     "whyBody2": "Tienes flexibilidad, pero no estás solo: apoyamos la selección, los objetivos y la continuidad para que cada alumno tenga un plan realista.",
-    "whyBody3": "Cuando la calidad es alta, el trabajo se disfruta más. Mejores alumnos, mejores sesiones, mejores resultados — y una compensación acorde."
+    "whyBody3": "Cuando la calidad es alta, el trabajo se disfruta más. Mejores alumnos, mejores sesiones, mejores resultados — y una compensación acorde.",
+    "phoneLabel": "Teléfono",
+    "yearLabel": "Año académico",
+    "cvPdfOnly": "Solo se permiten archivos PDF",
+    "cvHelp": "Adjunta tu CV en formato PDF",
+    "sending": "Enviando...",
+    "yearPlaceholder": "Selecciona año académico"
   },
   "contact": {
     "label": "Contacto",

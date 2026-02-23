@@ -121,7 +121,13 @@
     "thankYou": "Takk for søknaden! Vi kommer tilbake til deg snart.",
     "whyBody1": "Vi bygger Meritia for at privatundervisning skal føles mer seriøst — for elever, foreldre og for deg som veileder. Tydelige forventninger, god struktur og respekt for tiden din.",
     "whyBody2": "Du får fleksibilitet, men du står ikke alene: vi støtter matching, mål og kontinuitet slik at hver elev får en realistisk plan videre.",
-    "whyBody3": "Når kvaliteten er høy blir jobben mer givende. Bedre elever, bedre økter, bedre resultater — og betaling som gjenspeiler det."
+    "whyBody3": "Når kvaliteten er høy blir jobben mer givende. Bedre elever, bedre økter, bedre resultater — og betaling som gjenspeiler det.",
+    "phoneLabel": "Telefon",
+    "yearLabel": "Årskurs",
+    "cvPdfOnly": "Kun PDF-filer er tillatt",
+    "cvHelp": "Legg ved CV som PDF",
+    "sending": "Sender...",
+    "yearPlaceholder": "Velg årskurs"
   },
   "contact": {
     "label": "Kontakt",
