@@ -39,7 +39,7 @@ const Footer = () => {
             <h4 className="font-sans text-xs font-semibold uppercase tracking-widest mb-4 opacity-50">{t("footer.contactTitle")}</h4>
             <div className="flex flex-col gap-3">
               <span className="text-sm opacity-70">{t("footer.location")}</span>
-              <a href="mailto:hej@meritia.se" className="text-sm opacity-70 hover:opacity-100 transition-opacity">hej@meritia.se</a>
+              <a href="mailto:kontakt@meritia.se" className="text-sm opacity-70 hover:opacity-100 transition-opacity">kontakt@meritia.se</a>
               <Link to="/kontakt" className="text-sm font-medium text-mint hover:underline">{t("footer.bookConsultation")}</Link>
             </div>
           </div>

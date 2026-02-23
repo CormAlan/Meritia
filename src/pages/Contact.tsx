@@ -139,7 +139,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="font-medium text-foreground mb-1">{t("contact.email")}</p>
-                    <a href="mailto:hej@meritia.se" className="text-primary hover:underline">hej@meritia.se</a>
+                    <a href="mailto:kontakt@meritia.se" className="text-primary hover:underline">kontakt@meritia.se</a>
                   </div>
                 </div>
 

@@ -15,6 +15,7 @@ const Index = () => {
     { num: "01", title: t("howItWorks.step1Title"), desc: t("howItWorks.step1Desc") },
     { num: "02", title: t("howItWorks.step2Title"), desc: t("howItWorks.step2Desc") },
     { num: "03", title: t("howItWorks.step3Title"), desc: t("howItWorks.step3Desc") },
+    { num: "04", title: t("howItWorks.step4Title"), desc: t("howItWorks.step4Desc") }
   ];
 
   const advantages = [

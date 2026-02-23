@@ -28,7 +28,9 @@
     "step2Desc": "Håndplukket toppstudent med riktig erfaring.",
     "step3Title": "Læringen begynner",
     "step3Desc": "Fleksible timer, målbare resultater.",
-    "rangeLabel": "01-03"
+    "rangeLabel": "01-03",
+    "step4Title": "Løpende oppfølging",
+    "step4Desc": "Etter hver time får du en kort oppdatering om hva som er gjort, fremgang som er oppnådd og hva neste steg er."
   },
   "whyMeritia": {
     "label": "Hvorfor Meritia",

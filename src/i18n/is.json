@@ -28,7 +28,9 @@
     "step2Desc": "Handvalinn fremsti nemandi með rétta reynslu.",
     "step3Title": "Námið hefst",
     "step3Desc": "Sveigjanlegar kennslustundir, mælanlegur árangur.",
-    "rangeLabel": "01-03"
+    "rangeLabel": "01-03",
+    "step4Title": "Regluleg eftirfylgni",
+    "step4Desc": "Eftir hverja kennslustund færðu stutta uppfærslu um hvað var farið yfir, hvaða framfarir urðu og næstu skref."
   },
   "whyMeritia": {
     "label": "Af hverju Meritia",
