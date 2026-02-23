@@ -137,7 +137,7 @@ const ForParents = () => {
                       </p>
 
                       {/* tiny designed detail */}
-                      <div className="mt-5 h-px w-10 bg-border/80" />
+                      <div/>
                     </div>
                   </div>
                 </FadeIn>
