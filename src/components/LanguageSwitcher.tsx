@@ -15,12 +15,12 @@ const languages = [
   { code: "sv", flag: flagSv, label: "Svenska" },
   { code: "en", flag: flagEn, label: "English" },
   { code: "ar", flag: flagAr, label: "العربية" },
+  { code: "no", flag: flagNo, label: "Norsk" },
+  { code: "fi", flag: flagFi, label: "Suomi" },
   { code: "fa", flag: flagFa, label: "فارسی" },
   { code: "ku", flag: flagKu, label: "Kurdî" },
   { code: "so", flag: flagSo, label: "Soomaali" },
   { code: "es", flag: flagEs, label: "Español" },
-  { code: "fi", flag: flagFi, label: "Suomi" },
-  { code: "no", flag: flagNo, label: "Norsk" },
   { code: "is", flag: flagIs, label: "Íslenska" },
 ];
 

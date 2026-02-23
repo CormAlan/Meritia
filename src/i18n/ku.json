@@ -23,21 +23,19 @@
     "label": "Çawa dixebite",
     "title": "Sê gavên hêsan",
     "step1Title": "Ji me re bêje çi hewce ye",
-    "step1Desc": "Ders, ast û armanc — em guhdarî dikin û fam dikin.",
+    "step1Desc": "Ders, ast û armanc, em guhdarî dikin û fam dikin.",
     "step2Title": "Em mamosteyê te dibînin",
     "step2Desc": "Xwendekarê bijarte yê herî baş bi ezmûna rast.",
     "step3Title": "Hînbûn dest pê dike",
     "step3Desc": "Dersên maqûl, encamên pîvanbar.",
-    "rangeLabel": "01–03"
+    "rangeLabel": "01-03"
   },
   "whyMeritia": {
     "label": "Çima Meritia",
     "title": "Modela baştir",
-
-    "body1": "Fêrbûna baş tenê li ser zanînê ne—li ser têgihiştinê ye. Em her xwendekarê bi mamosteyekê re li hev dikin ku bi tempo, armanc û awayê fikirînê yê wî re diguncîne.",
+    "body1": "Fêrbûna baş tenê li ser zanînê ne, li ser têgihiştinê ye. Em her xwendekarê bi mamosteyekê re li hev dikin ku bi tempo, armanc û awayê fikirînê yê wî re diguncîne.",
     "body2": "Li şûna çareseriyên giştî, em li ser domdarî û rêbazê dixebitin. Her civîn li ser yê berê tê avakirin da ku pêşketin bi demê re zelal bibe.",
     "body3": "Encam: xwendina aramتر, baweriya xwe zêdetir, û planek ku bi rastî dom dike.",
-
     "adv1Title": "Mamosteyên baştir",
     "adv1Desc": "Tenê xwendekarên herî baş ji zanîngehên sereke. Bi baldarî têne hilbijartin û amade kirin.",
     "adv2Title": "Nirxê kêmتر bo dêûbavan",
@@ -68,7 +66,7 @@
     "label": "Ji bo dêûbavan",
     "title1": "Alîkariya herî baş bide",
     "title2": "zarokê xwe.",
-    "subtitle": "Meritia zarokê we bi xwendekarên herî baş yên KTH, Karolinska Institutet û Handelshögskolan ve girê dide. Kalîteya çêtir, bihayê kêmtir — bêyî lihevkirinê.",
+    "subtitle": "Meritia zarokê we bi xwendekarên herî baş yên KTH, Karolinska Institutet û Handelshögskolan ve girê dide. Kalîteya çêtir, bihayê kêmtir, bêyî lihevkirinê.",
     "requestTutor": "Mamosteyekî bixwaze",
     "benefitsLabel": "Feydeyên",
     "benefitsTitle": "Çima dêûbav me hildibijêrin",
@@ -77,7 +75,7 @@
     "b2Title": "Lihevhatina kesane",
     "b2Desc": "Em mamosteyê rast li gorî ders, ast, kesayetî û şêwaza hînbûnê dibînin.",
     "b3Title": "Bihayê çêtir",
-    "b3Desc": "Modela me tê wê wateyê ku zêdetir pere diçe mamosteyê — û tu kêmtir didî.",
+    "b3Desc": "Modela me tê wê wateyê ku zêdetir pere diçe mamosteyê, û tu kêmtir didî.",
     "b4Title": "Hemû ders",
     "b4Desc": "Matematîk, fîzîk, kîmya, îngilîzî, swêdî, bernamekirinî û zêdetir.",
     "pricingLabel": "Felsefeya bihayê me",
@@ -100,7 +98,7 @@
     "p1Title": "Meaşê pêşeng di pîşesaziyê de",
     "p1Desc": "Em heta %40 zêdetir ji platformên din didin.",
     "p2Title": "Demên maqûl",
-    "p2Desc": "Tu bernameyê diyar dikî — em xwe li gorî te dikin.",
+    "p2Desc": "Tu bernameyê diyar dikî, em xwe li gorî te dikin.",
     "p3Title": "Tora taybet",
     "p3Desc": "Bibe beşek ji torek xwendekarên herî baş ji KTH, KI û Handels.",
     "p4Title": "Tevlîbûna hêsan",
@@ -119,15 +117,16 @@
     "messagePlaceholder": "Bi kurtasî ji me re qala xwe bike...",
     "submitApplication": "Serlêdanê bişîne",
     "thankYou": "Spas ji bo serlêdana te! Em ê zû bi te re têkilî daynin.",
-    "whyBody1": "Me Meritia ava kir da ku dersdana taybetî bibe profesionalتر — ji bo xwendekaran, dêûbavan û ji bo te wekî mamoste. Vêbêjên zelal, strukturê baş û rêz ji bo demê te.",
+    "whyBody1": "Me Meritia ava kir da ku dersdana taybetî bibe profesionalتر, ji bo xwendekaran, dêûbavan û ji bo te wekî mamoste. Vêbêjên zelal, strukturê baş û rêz ji bo demê te.",
     "whyBody2": "Te flexîbîlî heye, lê tu tenê namînî: em di matchingê, armancan û domdarî de alîkarî dikin da ku her xwendekar planek rehet û realîst hebê.",
-    "whyBody3": "Dema kalite bilind be, kar jî kêfxweştr dibe. Xwendekarên baştr, civînên baştr, encamên baştr — û heqê ku ev qasî nîşan dide.",
+    "whyBody3": "Dema kalite bilind be, kar jî kêfxweştr dibe. Xwendekarên baştr, civînên baştr, encamên baştr, û heqê ku ev qasî nîşan dide.",
     "phoneLabel": "Telefon",
     "yearLabel": "Sala akademîk",
     "cvPdfOnly": "Tenê pelên PDF tên qebûlkirin.",
     "cvHelp": "CV-ya xwe wekî PDFê lê zêde bike.",
     "sending": "Tê şandin...",
-    "yearPlaceholder": "Sala akademîk hilbijêre"
+    "yearPlaceholder": "Sala akademîk hilbijêre",
+    "homeKicker": "Ji bo yên ku dixwazin hîn bikin"
   },
   "contact": {
     "label": "Têkilî",
@@ -168,7 +167,7 @@
     "v1Title": "Serketina akademîk",
     "v1Desc": "Tenê xwendekarên herî baş ji zanîngehên herî navdar ên Swêdê.",
     "v2Title": "Meaşê dadperwer",
-    "v2Desc": "Em hate damezrandin ku mamosteyên tiştê ku hêjayî ne bidin — heta %40 zêdetir.",
+    "v2Desc": "Em hate damezrandin ku mamosteyên tiştê ku hêjayî ne bidin, heta %40 zêdetir.",
     "v3Title": "Bijaretî",
     "v3Desc": "Mamosteyên kêmtir, kalîteya bilindtir. Pêvajoya hilbijartina me bi zanebûn hişk e.",
     "ctaTitle": "Dixwazî zêdetir bizanî?",
@@ -188,8 +187,8 @@
       "tagline": "Ji algebrê ya bingehîn heta analîza pêşketî",
       "description": "Matematîk dersa me ya herî pirzêde tê xwestin.",
       "levels": [
-        "Navîn (pol 7–9)",
-        "Lîsê (Ma 1–5)",
+        "Navîn (pol 7-9)",
+        "Lîsê (Ma 1-5)",
         "Matematîka zanîngehê"
       ],
       "topics": [
@@ -206,7 +205,7 @@
       "description": "Mamosteyên me bingehek zexm di zanistên xwezayî de didin xwendekaran.",
       "levels": [
         "Navîn",
-        "Lîsê (Fî 1–2, Kî 1–2)",
+        "Lîsê (Fî 1-2, Kî 1-2)",
         "IB û bernameyên navneteweyî"
       ],
       "topics": [
@@ -223,7 +222,7 @@
       "description": "Ziman bingeha hemû serketinên akademîk e.",
       "levels": [
         "Navîn",
-        "Lîsê (Îng 5–7, Swê 1–3)",
+        "Lîsê (Îng 5-7, Swê 1-3)",
         "Nivîsandina akademîk"
       ],
       "topics": [
@@ -239,7 +238,7 @@
       "tagline": "Şiyana pêşerojê, ji hêla herî başan ve tê hînkirin",
       "description": "Mamosteyên me ji KTH di nav bernamkerên ciwan ên herî jêhatî yên Swêdê de ne.",
       "levels": [
-        "Lîsê (Bernamekirinî 1–2)",
+        "Lîsê (Bernamekirinî 1-2)",
         "Pêşvebirina malperê",
         "Amadekariya zanîngehê"
       ],
@@ -256,8 +255,8 @@
       "tagline": "Dîrok, zanistên civakî, erdnîgarî û ol",
       "description": "Mamosteyên me ji xwendekaran re dibin alîkar ku pirsgirêkên civakî yên tevlihev fam bikin.",
       "levels": [
-        "Navîn (pol 7–9)",
-        "Lîsê (Ci 1–2, Dî 1–2)",
+        "Navîn (pol 7-9)",
+        "Lîsê (Ci 1-2, Dî 1-2)",
         "IB û bernameyên navneteweyî"
       ],
       "topics": [
@@ -273,8 +272,8 @@
       "tagline": "Spanî, fransî, îtalî û mandarîn",
       "description": "Mamosteyên zimanê me axêverên domdar in bi paşxaneya akademîk.",
       "levels": [
-        "Navîn (gam 1–3)",
-        "Lîsê (gam 3–5)",
+        "Navîn (gam 1-3)",
+        "Lîsê (gam 3-5)",
         "Sohbet û kûrbûn"
       ],
       "topics": [

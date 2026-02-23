@@ -23,21 +23,19 @@
     "label": "Sida ay u shaqeyso",
     "title": "Saddex tallaabo oo fudud",
     "step1Title": "Noo sheeg waxa aad u baahan tahay",
-    "step1Desc": "Maaddo, heer iyo hadaf — waan dhageysannaynaa waan fahannaa.",
+    "step1Desc": "Maaddo, heer iyo hadaf, waan dhageysannaynaa waan fahannaa.",
     "step2Title": "Waxaan kuu helnaa macalin",
     "step2Desc": "Arday sare oo la doortay oo leh khibrad saxda ah.",
     "step3Title": "Waxbarashadu way bilaabataa",
     "step3Desc": "Casharro dabacsan, natiijoooyin la cabbiri karo.",
-    "rangeLabel": "01–03"
+    "rangeLabel": "01-03"
   },
   "whyMeritia": {
     "label": "Maxay Meritia",
     "title": "Hab ka fiican",
-
-    "body1": "Waxbarasho wanaagsan kaliya ma aha aqoon—waa in ardayga si dhab ah loo fahmo. Waxaan arday kasta ku xidhnaa macalin ku habboon xawligiisa, yoolkiisa iyo sida uu u fikirayo.",
+    "body1": "Waxbarasho wanaagsan kaliya ma aha aqoon, waa in ardayga si dhab ah loo fahmo. Waxaan arday kasta ku xidhnaa macalin ku habboon xawligiisa, yoolkiisa iyo sida uu u fikirayo.",
     "body2": "Halkii xalal guud laga bixin lahaa, waxaan diiradda saarnaa joogteyn iyo jihayn cad. Kulan kasta wuxuu ku dhismaa kii hore si horumar la arki karo waqti ka dib.",
     "body3": "Natiijadu waa waxbarasho degan, kalsooni badan, iyo qorshe si dhab ah u sii shaqeeya.",
-
     "adv1Title": "Macallimiin ka fiican",
     "adv1Desc": "Kaliya ardayda ugu sarreeya ee jaamacadaha waaweyn. Si taxaddar leh loo doortay loona tababaray.",
     "adv2Title": "Qiimo ka jaban waalidiinta",
@@ -68,7 +66,7 @@
     "label": "Waalidiinta",
     "title1": "Sii ilmahaaga",
     "title2": "caawinaadda ugu fiican.",
-    "subtitle": "Meritia waxay ku xidhaa ilmahaaga ardayda ugu fiican ee KTH, Karolinska Institutet iyo Handelshögskolan. Tayo wanaagsan, qiimo jaban — iyada oo aan wax laga dhimin.",
+    "subtitle": "Meritia waxay ku xidhaa ilmahaaga ardayda ugu fiican ee KTH, Karolinska Institutet iyo Handelshögskolan. Tayo wanaagsan, qiimo jaban, iyada oo aan wax laga dhimin.",
     "requestTutor": "Codso macalin",
     "benefitsLabel": "Faa'iidooyinka",
     "benefitsTitle": "Sababta waalidiintu noo doortaan",
@@ -77,12 +75,12 @@
     "b2Title": "Is-barbar dhig shakhsi",
     "b2Desc": "Waxaan helnaa macalinka saxda ah ee ku salaysan maaddo, heer, shakhsiyad iyo qaabka barashada.",
     "b3Title": "Qiimo wanaagsan",
-    "b3Desc": "Habkayagu wuxuu ka dhigan yahay in lacag badan ay u aaddo macalinka — adna aad ka badan bixisid.",
+    "b3Desc": "Habkayagu wuxuu ka dhigan yahay in lacag badan ay u aaddo macalinka, adna aad ka badan bixisid.",
     "b4Title": "Dhammaan maaddooyinka",
     "b4Desc": "Xisaabta, fiisigiska, kimistariga, Ingiriisiga, Iswidhishka, barnaamijyada iyo wax badan.",
     "pricingLabel": "Falsafadayada qiimaha",
     "pricingTitle": "Wax badan macalinka, wax yar dhexdhexaadiyeyaasha",
-    "pricingDesc": "Shirkadaha dhaqameed waxay qaataan 40–60% waxa aad bixiso. Meritia, intooda badan toos bay u aadaan macalinkaaga.",
+    "pricingDesc": "Shirkadaha dhaqameed waxay qaataan 40-60% waxa aad bixiso. Meritia, intooda badan toos bay u aadaan macalinkaaga.",
     "pricingMeritia": "waxay u aadaan macalinka Meritia",
     "pricingTraditional": "shirkadaha dhaqameed",
     "subjectsLabel": "Maaddooyinka",
@@ -100,7 +98,7 @@
     "p1Title": "Mushaar horumar ku ah warshadda",
     "p1Desc": "Waxaan bixinnaa ilaa 40% ka badan boostiyeyaasha kale.",
     "p2Title": "Waqtiyo dabacsan",
-    "p2Desc": "Adiga ayaa jadwalka go'aamisa — annaga waan la qabsannaa.",
+    "p2Desc": "Adiga ayaa jadwalka go'aamisa, annaga waan la qabsannaa.",
     "p3Title": "Shabakad gaar ah",
     "p3Desc": "Ku biir shabakad ardayda ugu fiican ee KTH, KI iyo Handels.",
     "p4Title": "Bilaawga fudud",
@@ -119,15 +117,16 @@
     "messagePlaceholder": "Si kooban noogu sheekee naftaada...",
     "submitApplication": "Soo gudbi codsiga",
     "thankYou": "Mahadsanid codsigaaga! Waan kuula soo noqon doonaa dhawaan.",
-    "whyBody1": "Waxaan Meritia u dhisnay si waxbarashada gaarka ahi u noqoto mid dhab ahaan xirfad leh — arday, waalid iyo adiga tutor ahaanba. Filasho cad, hab dhisan, iyo qadarin waqtigaaga.",
+    "whyBody1": "Waxaan Meritia u dhisnay si waxbarashada gaarka ahi u noqoto mid dhab ahaan xirfad leh, arday, waalid iyo adiga tutor ahaanba. Filasho cad, hab dhisan, iyo qadarin waqtigaaga.",
     "whyBody2": "Waxaad helaysaa dabacsanaan, balse keligaa lagama tagayo: waxaan taageernaa is-waafajinta, yoolalka iyo joogteynta si arday kastaa u helo qorshe macquul ah oo uu ku socdo.",
-    "whyBody3": "Marka tayadu sarreyso, shaqadu way ka macaan tahay. Arday fiican, kulammo fiican, natiijo fiican — iyo mushahar taas la jaan qaadaya.",
+    "whyBody3": "Marka tayadu sarreyso, shaqadu way ka macaan tahay. Arday fiican, kulammo fiican, natiijo fiican, iyo mushahar taas la jaan qaadaya.",
     "phoneLabel": "Telefoon",
     "yearLabel": "Sannadka waxbarasho",
     "cvPdfOnly": "Waxaa kaliya PDF fileyada oo la codsan karaa",
     "cvHelp": "Ku xir CV-kaaga PDF-ga",
     "sending": "Soo diray...",
-    "yearPlaceholder": "Dooro sannadka waxbarasho"
+    "yearPlaceholder": "Dooro sannadka waxbarasho",
+    "homeKicker": "Kuwa doonaya inay wax baraan"
   },
   "contact": {
     "label": "La xiriir",
@@ -168,7 +167,7 @@
     "v1Title": "Tayada waxbarasho",
     "v1Desc": "Kaliya ardayda ugu fiican ee jaamacadaha ugu sharafta badan ee Iswiidhan.",
     "v2Title": "Mushaar cadaalad ah",
-    "v2Desc": "Waxaan u aasaasnay inaan macalimiinta siinno waxa ay mudan yihiin — ilaa 40% oo dheeraad ah.",
+    "v2Desc": "Waxaan u aasaasnay inaan macalimiinta siinno waxa ay mudan yihiin, ilaa 40% oo dheeraad ah.",
     "v3Title": "Gaarnimo",
     "v3Desc": "Macalimiinta yar, tayo sare. Habka doorashadu si ula kac ah ayuu u adag yahay.",
     "ctaTitle": "Ma rabtaa inaad wax badan ogaato?",
@@ -188,8 +187,8 @@
       "tagline": "Algebrada aasaasiga ilaa falanqaynta sare",
       "description": "Xisaabtu waa maaddadayada ugu badan ee la codsado.",
       "levels": [
-        "Dhexe (fasallo 7–9)",
-        "Sare (Xi 1–5)",
+        "Dhexe (fasallo 7-9)",
+        "Sare (Xi 1-5)",
         "Xisaabta jaamacadeed"
       ],
       "topics": [
@@ -206,7 +205,7 @@
       "description": "Macalimiintayadu waxay ardayda siiyaan aasaas adag sayniska dabiiciga ah.",
       "levels": [
         "Dhexe",
-        "Sare (Fi 1–2, Ki 1–2, Ba 1–2)",
+        "Sare (Fi 1-2, Ki 1-2, Ba 1-2)",
         "IB iyo barnaamijyada caalamiga"
       ],
       "topics": [
@@ -224,7 +223,7 @@
       "description": "Luqaddu waa aasaaska guul kasta oo waxbarasho.",
       "levels": [
         "Dhexe",
-        "Sare (Ing 5–7, Isw 1–3)",
+        "Sare (Ing 5-7, Isw 1-3)",
         "Qoraalka waxbarasho"
       ],
       "topics": [
@@ -240,7 +239,7 @@
       "tagline": "Xirfadda mustaqbalka, waxaa baray kuwa ugu wanaagsan",
       "description": "Macalimiintayada KTH waxay ka mid yihiin barnaamij sameeyadii ugu xirfadda badnaa ee Iswiidhan.",
       "levels": [
-        "Sare (Barnaamijyada 1–2)",
+        "Sare (Barnaamijyada 1-2)",
         "Horumarinta shabakadda",
         "Diyaarinta jaamacadeed"
       ],
@@ -257,8 +256,8 @@
       "tagline": "Taariikhda, cilmiga bulshada, juquraafiyada iyo diinta",
       "description": "Macalimiintayadu waxay ardayda ka caawiyaan inay fahmaan arrimaha bulshada ee adag.",
       "levels": [
-        "Dhexe (fasallo 7–9)",
-        "Sare (Bu 1–2, Ta 1–2)",
+        "Dhexe (fasallo 7-9)",
+        "Sare (Bu 1-2, Ta 1-2)",
         "IB iyo barnaamijyada caalamiga"
       ],
       "topics": [
@@ -274,8 +273,8 @@
       "tagline": "Isbaanish, Faransiis, Talyaani iyo Mandarin",
       "description": "Macalimiintayada luqadaha waa kuwa si fiican u hadla oo leh aqoon waxbarasho.",
       "levels": [
-        "Dhexe (tallaabooyinka 1–3)",
-        "Sare (tallaabooyinka 3–5)",
+        "Dhexe (tallaabooyinka 1-3)",
+        "Sare (tallaabooyinka 3-5)",
         "Wada sheekaysi iyo qoto dheer"
       ],
       "topics": [

@@ -23,21 +23,19 @@
     "label": "Näin se toimii",
     "title": "Kolme yksinkertaista vaihetta",
     "step1Title": "Kerro mitä tarvitset",
-    "step1Desc": "Aine, taso ja tavoitteet — kuuntelemme ja ymmärrämme.",
+    "step1Desc": "Aine, taso ja tavoitteet, kuuntelemme ja ymmärrämme.",
     "step2Title": "Valitsemme sinulle tutorin",
     "step2Desc": "Käsin valittu huippuopiskelija oikealla kokemuksella.",
     "step3Title": "Oppiminen alkaa",
     "step3Desc": "Joustavat tunnit, mitattavat tulokset.",
-    "rangeLabel": "01–03"
+    "rangeLabel": "01-03"
   },
   "whyMeritia": {
     "label": "Miksi Meritia",
     "title": "Parempi malli",
-
     "body1": "Hyvä opetus ei ole vain tietoa, vaan myös ymmärretyksi tulemista. Yhdistämme oppilaat tutoreihin, jotka sopivat heidän tavoitteisiinsa ja tahtiin.",
     "body2": "Yleisten ratkaisujen sijaan keskitymme jatkuvuuteen. Jokainen tapaaminen rakentuu edellisen päälle.",
     "body3": "Tuloksena on rauhallisempi opiskelu, parempi itseluottamus ja toimiva suunnitelma.",
-
     "adv1Title": "Paremmat tutorit",
     "adv1Desc": "Huippuopiskelijoita johtavista yliopistoista. Huolellisesti valitut.",
     "adv2Title": "Edullisempi vanhemmille",
@@ -68,7 +66,7 @@
     "label": "Vanhemmille",
     "title1": "Anna lapsellesi",
     "title2": "parasta apua.",
-    "subtitle": "Meritia yhdistää lapsesi huippuopiskelijoihin KTH:sta, Karolinska Institutetista ja Tukholman kauppakorkeakoulusta. Parempaa laatua, alhaisempi hinta — ilman kompromisseja.",
+    "subtitle": "Meritia yhdistää lapsesi huippuopiskelijoihin KTH:sta, Karolinska Institutetista ja Tukholman kauppakorkeakoulusta. Parempaa laatua, alhaisempi hinta, ilman kompromisseja.",
     "requestTutor": "Pyydä tutoria",
     "benefitsLabel": "Edut",
     "benefitsTitle": "Miksi vanhemmat valitsevat meidät",
@@ -77,12 +75,12 @@
     "b2Title": "Henkilökohtainen valinta",
     "b2Desc": "Löydämme oikean tutorin aineen, tason, persoonallisuuden ja oppimistyylin perusteella.",
     "b3Title": "Parempi hinta",
-    "b3Desc": "Mallimme tarkoittaa, että enemmän rahaa menee tutorille — ja sinä maksat vähemmän.",
+    "b3Desc": "Mallimme tarkoittaa, että enemmän rahaa menee tutorille, ja sinä maksat vähemmän.",
     "b4Title": "Kaikki aineet",
     "b4Desc": "Matematiikka, fysiikka, kemia, englanti, ruotsi, ohjelmointi ja muuta.",
     "pricingLabel": "Hinnoittelufilosofiamme",
     "pricingTitle": "Enemmän tutorille, vähemmän välikäsille",
-    "pricingDesc": "Perinteiset yritykset ottavat 40–60 % siitä mitä maksat. Meritiassa suurin osa menee suoraan tutorillesi — enemmän motivaatiota, parempaa laatua ja alhaisempi hinta sinulle.",
+    "pricingDesc": "Perinteiset yritykset ottavat 40-60 % siitä mitä maksat. Meritiassa suurin osa menee suoraan tutorillesi, enemmän motivaatiota, parempaa laatua ja alhaisempi hinta sinulle.",
     "pricingMeritia": "menee tutorille Meritiassa",
     "pricingTraditional": "perinteisissä yrityksissä",
     "subjectsLabel": "Aineet",
@@ -100,7 +98,7 @@
     "p1Title": "Alan johtava palkka",
     "p1Desc": "Maksamme jopa 40 % enemmän kuin muut alustat.",
     "p2Title": "Joustavat ajat",
-    "p2Desc": "Sinä päätät aikataulun — me mukaudumme.",
+    "p2Desc": "Sinä päätät aikataulun, me mukaudumme.",
     "p3Title": "Eksklusiivinen verkosto",
     "p3Desc": "Liity huippuopiskelijoiden verkostoon KTH:sta, KI:stä ja SSE:stä.",
     "p4Title": "Helppo liittyminen",
@@ -119,15 +117,16 @@
     "messagePlaceholder": "Kerro lyhyesti itsestäsi...",
     "submitApplication": "Lähetä hakemus",
     "thankYou": "Kiitos hakemuksestasi! Otamme sinuun yhteyttä pian.",
-    "whyBody1": "Rakensimme Meritian, jotta yksityisopetus tuntuisi ammattimaisemmalta — oppilaille, vanhemmille ja sinulle tutorina. Selkeät odotukset, hyvä rakenne ja kunnioitus ajankäyttöäsi kohtaan.",
+    "whyBody1": "Rakensimme Meritian, jotta yksityisopetus tuntuisi ammattimaisemmalta, oppilaille, vanhemmille ja sinulle tutorina. Selkeät odotukset, hyvä rakenne ja kunnioitus ajankäyttöäsi kohtaan.",
     "whyBody2": "Saat joustavuuden, mutta et jää yksin: autamme sopivan parin löytämisessä, tavoitteissa ja jatkuvuudessa, jotta oppilaalla on realistinen suunnitelma eteenpäin.",
-    "whyBody3": "Kun laatu on korkea, työ on palkitsevampaa. Paremmat oppilaat, paremmat tapaamiset, paremmat tulokset — ja korvaus, joka vastaa sitä.",
+    "whyBody3": "Kun laatu on korkea, työ on palkitsevampaa. Paremmat oppilaat, paremmat tapaamiset, paremmat tulokset, ja korvaus, joka vastaa sitä.",
     "phoneLabel": "Puhelin",
     "yearLabel": "Vuosi",
     "cvPdfOnly": "Vain PDF-tiedostoja sallittu",
     "cvHelp": "Liitä CV PDF-muodossa",
     "sending": "Lähettää...",
-    "yearPlaceholder": "Valitse vuosi"
+    "yearPlaceholder": "Valitse vuosi",
+    "homeKicker": "Sinulle, joka haluat opettaa"
   },
   "contact": {
     "label": "Yhteystiedot",
@@ -161,14 +160,14 @@
     "storyLabel": "Tarinamme",
     "storyTitle": "Turhautumisesta muutokseen",
     "storyP1": "KTH:n ja SSE:n opiskelijoina näimme, miten olemassa olevat tutoriyritykset toimivat: ne ottivat valtavia marginaaleja, maksoivat tutoreille huonosti ja tarjosivat keskinkertaista laatua.",
-    "storyP2": "Meritia syntyi vakaumuksesta, että on olemassa parempi tapa. Palkkaamalla yksinomaan KTH:sta, Karolinska Institutetista ja Tukholman kauppakorkeakoulusta varmistamme akateemisen huippuosaamisen. Minimoimalla marginaalimme annamme tutoreille alan johtavan korvauksen — ja vanhemmille paremman hinnan.",
+    "storyP2": "Meritia syntyi vakaumuksesta, että on olemassa parempi tapa. Palkkaamalla yksinomaan KTH:sta, Karolinska Institutetista ja Tukholman kauppakorkeakoulusta varmistamme akateemisen huippuosaamisen. Minimoimalla marginaalimme annamme tutoreille alan johtavan korvauksen, ja vanhemmille paremman hinnan.",
     "storyP3": "Tänään Meritia on Tukholman eksklusiivisin yksityisopetuspalvelu, rakennettu periaatteelle, ettei laadusta koskaan tingitä.",
     "valuesLabel": "Arvomme",
     "valuesTitle": "Mitä edustamme",
     "v1Title": "Akateeminen huippuosaaminen",
     "v1Desc": "Vain parhaat opiskelijat Ruotsin arvostetuimmista yliopistoista.",
     "v2Title": "Reilu korvaus",
-    "v2Desc": "Perustettiin antamaan tutoreille mitä he ansaitsevat — jopa 40 % enemmän.",
+    "v2Desc": "Perustettiin antamaan tutoreille mitä he ansaitsevat, jopa 40 % enemmän.",
     "v3Title": "Eksklusiivisuus",
     "v3Desc": "Vähemmän tutoreita, korkeampi laatu. Valintaprosessimme on tarkoituksella tiukka.",
     "ctaTitle": "Haluatko tietää lisää?",
@@ -188,8 +187,8 @@
       "tagline": "Perusalgbrasta edistyneeseen analyysiin",
       "description": "Matematiikka on kysytyin aineemme. KTH:n ja SSE:n tutorimme auttavat opiskelijoita kaikilla tasoilla.",
       "levels": [
-        "Yläkoulu (luokat 7–9)",
-        "Lukio (Ma 1–5, Erikoistuminen)",
+        "Yläkoulu (luokat 7-9)",
+        "Lukio (Ma 1-5, Erikoistuminen)",
         "Yliopistomatematiikka"
       ],
       "topics": [
@@ -206,7 +205,7 @@
       "description": "KTH:n ja Karolinska Institutetin tutorimme antavat opiskelijoille vankan pohjan luonnontieteissä.",
       "levels": [
         "Yläkoulu",
-        "Lukio (Fy 1–2, Ke 1–2, Bi 1–2)",
+        "Lukio (Fy 1-2, Ke 1-2, Bi 1-2)",
         "IB ja kansainväliset ohjelmat"
       ],
       "topics": [
@@ -224,7 +223,7 @@
       "description": "Kieli on kaiken akateemisen menestyksen perusta. Tutorimme auttavat kaikessa kieliopista suullisiin esityksiin.",
       "levels": [
         "Yläkoulu",
-        "Lukio (Eng 5–7, Ru 1–3)",
+        "Lukio (Eng 5-7, Ru 1-3)",
         "Akateeminen kirjoittaminen"
       ],
       "topics": [
@@ -240,7 +239,7 @@
       "tagline": "Tulevaisuuden taito, parhaiden opettamana",
       "description": "KTH:n tutorimme ovat Ruotsin taitavimpia nuoria ohjelmoijia.",
       "levels": [
-        "Lukio (Ohjelmointi 1–2)",
+        "Lukio (Ohjelmointi 1-2)",
         "Web-kehitys",
         "Yliopistovalmistautuminen"
       ],
@@ -257,8 +256,8 @@
       "tagline": "Historia, yhteiskuntaoppi, maantiede ja uskonto",
       "description": "Tutorimme auttavat opiskelijoita ymmärtämään monimutkaisia yhteiskunnallisia kysymyksiä ja historiallisia tapahtumia.",
       "levels": [
-        "Yläkoulu (luokat 7–9)",
-        "Lukio (Yh 1–2, Hi 1–2)",
+        "Yläkoulu (luokat 7-9)",
+        "Lukio (Yh 1-2, Hi 1-2)",
         "IB ja kansainväliset ohjelmat"
       ],
       "topics": [
@@ -274,8 +273,8 @@
       "tagline": "Espanja, ranska, italia ja mandariini",
       "description": "Kielitutorimme ovat sujuvia puhujia akateemisella taustalla, jotka auttavat kehittämään sekä suullisia että kirjallisia taitoja.",
       "levels": [
-        "Yläkoulu (vaiheet 1–3)",
-        "Lukio (vaiheet 3–5)",
+        "Yläkoulu (vaiheet 1-3)",
+        "Lukio (vaiheet 3-5)",
         "Keskustelu ja edistynyt"
       ],
       "topics": [

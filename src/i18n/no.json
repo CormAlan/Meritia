@@ -23,21 +23,19 @@
     "label": "Slik fungerer det",
     "title": "Tre enkle steg",
     "step1Title": "Fortell oss hva du trenger",
-    "step1Desc": "Fag, nivå og mål — vi lytter og forstår.",
+    "step1Desc": "Fag, nivå og mål, vi lytter og forstår.",
     "step2Title": "Vi matcher din tutor",
     "step2Desc": "Håndplukket toppstudent med riktig erfaring.",
     "step3Title": "Læringen begynner",
     "step3Desc": "Fleksible timer, målbare resultater.",
-    "rangeLabel": "01–03"
+    "rangeLabel": "01-03"
   },
   "whyMeritia": {
     "label": "Hvorfor Meritia",
     "title": "En bedre modell",
-
     "body1": "God undervisning handler ikke bare om kunnskap, men om å bli forstått. Vi matcher hver elev med riktig veileder.",
     "body2": "I stedet for generelle løsninger fokuserer vi på kontinuitet og retning. Hver økt bygger videre på den forrige.",
     "body3": "Resultatet er roligere studier, bedre selvtillit og en plan som varer.",
-
     "adv1Title": "Bedre veiledere",
     "adv1Desc": "Kun toppstudenter fra ledende universiteter. Nøye utvalgt.",
     "adv2Title": "Lavere pris for foreldre",
@@ -68,7 +66,7 @@
     "label": "For foreldre",
     "title1": "Gi barnet ditt den",
     "title2": "beste hjelpen.",
-    "subtitle": "Meritia kobler barnet ditt med toppstudenter fra KTH, Karolinska Institutet og Handelshögskolan. Bedre kvalitet, lavere pris — uten kompromisser.",
+    "subtitle": "Meritia kobler barnet ditt med toppstudenter fra KTH, Karolinska Institutet og Handelshögskolan. Bedre kvalitet, lavere pris, uten kompromisser.",
     "requestTutor": "Be om en tutor",
     "benefitsLabel": "Fordeler",
     "benefitsTitle": "Hvorfor foreldre velger oss",
@@ -77,12 +75,12 @@
     "b2Title": "Personlig matching",
     "b2Desc": "Vi finner riktig tutor basert på fag, nivå, personlighet og lærestil.",
     "b3Title": "Bedre pris",
-    "b3Desc": "Vår modell betyr at mer penger går til tutoren — og du betaler mindre.",
+    "b3Desc": "Vår modell betyr at mer penger går til tutoren, og du betaler mindre.",
     "b4Title": "Alle fag",
     "b4Desc": "Matematikk, fysikk, kjemi, engelsk, svensk, programmering og mer.",
     "pricingLabel": "Vår prisfilosofi",
     "pricingTitle": "Mer til tutoren, mindre til mellomledd",
-    "pricingDesc": "Tradisjonelle selskaper tar 40–60% av det du betaler. Hos Meritia går majoriteten direkte til tutoren din.",
+    "pricingDesc": "Tradisjonelle selskaper tar 40-60% av det du betaler. Hos Meritia går majoriteten direkte til tutoren din.",
     "pricingMeritia": "går til tutoren hos Meritia",
     "pricingTraditional": "hos tradisjonelle selskaper",
     "subjectsLabel": "Fag",
@@ -100,7 +98,7 @@
     "p1Title": "Bransjledende lønn",
     "p1Desc": "Vi betaler opptil 40% mer enn andre plattformer.",
     "p2Title": "Fleksible tider",
-    "p2Desc": "Du bestemmer timeplanen — vi tilpasser oss.",
+    "p2Desc": "Du bestemmer timeplanen, vi tilpasser oss.",
     "p3Title": "Eksklusivt nettverk",
     "p3Desc": "Bli en del av et nettverk med toppstudenter fra KTH, KI og Handels.",
     "p4Title": "Enkel onboarding",
@@ -119,15 +117,16 @@
     "messagePlaceholder": "Fortell kort om deg selv...",
     "submitApplication": "Send søknad",
     "thankYou": "Takk for søknaden! Vi kommer tilbake til deg snart.",
-    "whyBody1": "Vi bygger Meritia for at privatundervisning skal føles mer seriøst — for elever, foreldre og for deg som veileder. Tydelige forventninger, god struktur og respekt for tiden din.",
+    "whyBody1": "Vi bygger Meritia for at privatundervisning skal føles mer seriøst, for elever, foreldre og for deg som veileder. Tydelige forventninger, god struktur og respekt for tiden din.",
     "whyBody2": "Du får fleksibilitet, men du står ikke alene: vi støtter matching, mål og kontinuitet slik at hver elev får en realistisk plan videre.",
-    "whyBody3": "Når kvaliteten er høy blir jobben mer givende. Bedre elever, bedre økter, bedre resultater — og betaling som gjenspeiler det.",
+    "whyBody3": "Når kvaliteten er høy blir jobben mer givende. Bedre elever, bedre økter, bedre resultater, og betaling som gjenspeiler det.",
     "phoneLabel": "Telefon",
     "yearLabel": "Årskurs",
     "cvPdfOnly": "Kun PDF-filer er tillatt",
     "cvHelp": "Legg ved CV som PDF",
     "sending": "Sender...",
-    "yearPlaceholder": "Velg årskurs"
+    "yearPlaceholder": "Velg årskurs",
+    "homeKicker": "For deg som vil undervise"
   },
   "contact": {
     "label": "Kontakt",
@@ -161,14 +160,14 @@
     "storyLabel": "Vår historie",
     "storyTitle": "Fra frustrasjon til forandring",
     "storyP1": "Som studenter ved KTH og Handels så vi hvordan eksisterende tutorselskaper opererte: de tok enorme marginer, betalte tutorer dårlig og leverte middelmådig kvalitet.",
-    "storyP2": "Meritia ble født fra overbevisningen om at det finnes en bedre måte. Ved å ansette utelukkende fra KTH, Karolinska Institutet og Handelshögskolan sikrer vi akademisk dyktighet. Ved å minimere marginen vår gir vi tutorer bransjledende kompensasjon — og foreldre en bedre pris.",
+    "storyP2": "Meritia ble født fra overbevisningen om at det finnes en bedre måte. Ved å ansette utelukkende fra KTH, Karolinska Institutet og Handelshögskolan sikrer vi akademisk dyktighet. Ved å minimere marginen vår gir vi tutorer bransjledende kompensasjon, og foreldre en bedre pris.",
     "storyP3": "I dag er Meritia Stockholms mest eksklusive privattjeneste for undervisning, bygget på prinsippet om at kvalitet aldri skal kompromitteres.",
     "valuesLabel": "Våre verdier",
     "valuesTitle": "Hva vi står for",
     "v1Title": "Akademisk dyktighet",
     "v1Desc": "Bare de beste studentene fra Sveriges mest anerkjente universiteter.",
     "v2Title": "Rettferdig kompensasjon",
-    "v2Desc": "Vi ble grunnlagt for å gi tutorer det de fortjener — opptil 40% mer.",
+    "v2Desc": "Vi ble grunnlagt for å gi tutorer det de fortjener, opptil 40% mer.",
     "v3Title": "Eksklusivitet",
     "v3Desc": "Færre tutorer, høyere kvalitet. Vår utvelgelsesprosess er bevisst streng.",
     "ctaTitle": "Vil du vite mer?",
@@ -188,8 +187,8 @@
       "tagline": "Fra grunnleggende algebra til avansert analyse",
       "description": "Matematikk er vårt mest etterspurte fag.",
       "levels": [
-        "Ungdomsskolen (trinn 7–9)",
-        "Videregående (Ma 1–5)",
+        "Ungdomsskolen (trinn 7-9)",
+        "Videregående (Ma 1-5)",
         "Universitetsmatematikk"
       ],
       "topics": [
@@ -206,7 +205,7 @@
       "description": "Våre tutorer gir elevene et solid grunnlag i naturvitenskap.",
       "levels": [
         "Ungdomsskolen",
-        "Videregående (Fy 1–2, Kj 1–2, Bi 1–2)",
+        "Videregående (Fy 1-2, Kj 1-2, Bi 1-2)",
         "IB og internasjonale programmer"
       ],
       "topics": [
@@ -224,7 +223,7 @@
       "description": "Språk er grunnlaget for all akademisk suksess.",
       "levels": [
         "Ungdomsskolen",
-        "Videregående (Eng 5–7, Sve 1–3)",
+        "Videregående (Eng 5-7, Sve 1-3)",
         "Akademisk skriving"
       ],
       "topics": [
@@ -240,7 +239,7 @@
       "tagline": "Fremtidens kompetanse, lært av de beste",
       "description": "Våre tutorer fra KTH er blant Sveriges dyktigste unge programmerere.",
       "levels": [
-        "Videregående (Programmering 1–2)",
+        "Videregående (Programmering 1-2)",
         "Webutvikling",
         "Universitetsforbredende"
       ],
@@ -257,8 +256,8 @@
       "tagline": "Historie, samfunnskunnskap, geografi og religion",
       "description": "Våre tutorer hjelper elever å forstå komplekse samfunnsspørsmål.",
       "levels": [
-        "Ungdomsskolen (trinn 7–9)",
-        "Videregående (Sf 1–2, Hi 1–2)",
+        "Ungdomsskolen (trinn 7-9)",
+        "Videregående (Sf 1-2, Hi 1-2)",
         "IB og internasjonale programmer"
       ],
       "topics": [
@@ -274,8 +273,8 @@
       "tagline": "Spansk, fransk, italiensk og mandarin",
       "description": "Våre språktutorer er flytende talere med akademisk bakgrunn.",
       "levels": [
-        "Ungdomsskolen (trinn 1–3)",
-        "Videregående (trinn 3–5)",
+        "Ungdomsskolen (trinn 1-3)",
+        "Videregående (trinn 3-5)",
         "Samtale og fordypning"
       ],
       "topics": [
