@@ -17,8 +17,6 @@ const BecomeTutor = () => {
     subject: "",
     message: "",
   });
-  const [cvFile, setCvFile] = useState<File | null>(null);
-  const [cvInputKey, setCvInputKey] = useState(0);
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
@@ -39,7 +37,6 @@ const BecomeTutor = () => {
       if (form.year) data.append("year", form.year);
       data.append("subject", form.subject);
       if (form.message) data.append("message", form.message);
-      if (cvFile) data.append("cv", cvFile);
 
       const res = await fetch(FORMSPREE_ENDPOINT, {
         method: "POST",
@@ -52,8 +49,6 @@ const BecomeTutor = () => {
       if (res.ok) {
         setStatus("success");
         setForm({ name: "", email: "", phone: "", university: "", year: "", subject: "", message: "" });
-        setCvFile(null);
-        setCvInputKey((k) => k + 1);
         return;
       }
 
@@ -303,34 +298,6 @@ const BecomeTutor = () => {
                   className="w-full bg-card border border-border rounded-xl px-4 py-3 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all resize-none"
                   placeholder={t("becomeTutor.messagePlaceholder")}
                 />
-              </div>
-
-              <div>
-                <label className="text-sm font-medium text-foreground mb-2 block">
-                  {t("becomeTutor.cvLabel", { defaultValue: "CV (PDF)" })}
-                </label>
-                <input
-                  key={cvInputKey}
-                  type="file"
-                  accept="application/pdf"
-                  required
-                  onChange={(e) => {
-                    const f = e.target.files?.[0] ?? null;
-                    // Extra guard: only allow PDFs
-                    if (f && f.type !== "application/pdf") {
-                      setErrorMsg(t("becomeTutor.cvPdfOnly", { defaultValue: "Endast PDF-filer är tillåtna." }));
-                      setStatus("error");
-                      e.target.value = "";
-                      setCvFile(null);
-                      return;
-                    }
-                    setCvFile(f);
-                  }}
-                  className="w-full bg-card border border-border rounded-xl px-4 py-3 text-foreground file:mr-4 file:rounded-lg file:border-0 file:bg-secondary file:px-4 file:py-2 file:text-sm file:font-medium hover:file:bg-secondary/80 focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
-                />
-                <p className="mt-2 text-xs text-muted-foreground">
-                  {t("becomeTutor.cvHelp", { defaultValue: "Bifoga ditt CV som PDF" })}
-                </p>
               </div>
 
               <button
